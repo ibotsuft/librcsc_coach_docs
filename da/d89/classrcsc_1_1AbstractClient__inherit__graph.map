@@ -1,0 +1,5 @@
+<map id="rcsc::AbstractClient" name="rcsc::AbstractClient">
+<area shape="rect" id="node1" title="abstract soccer client class" alt="" coords="80,5,228,32"/>
+<area shape="rect" id="node2" href="$dd/d13/classrcsc_1_1OfflineClient.html" title="offline clientt class for debugging purpose." alt="" coords="5,80,143,107"/>
+<area shape="rect" id="node3" href="$d2/d5d/classrcsc_1_1OnlineClient.html" title="standard soccer clientt class." alt="" coords="167,80,303,107"/>
+</map>

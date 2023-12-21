@@ -1,0 +1,6 @@
+<map id="rcsc::rcg::drawinfo_t" name="rcsc::rcg::drawinfo_t">
+<area shape="rect" id="node1" title="drawing data" alt="" coords="186,95,339,121"/>
+<area shape="rect" id="node2" href="$d2/d49/structrcsc_1_1rcg_1_1pointinfo__t.html" title="point data in drawinfo_t" alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node3" href="$d7/d4c/structrcsc_1_1rcg_1_1circleinfo__t.html" title="circle data in drawinfo_t" alt="" coords="185,5,341,32"/>
+<area shape="rect" id="node4" href="$dc/ddb/structrcsc_1_1rcg_1_1lineinfo__t.html" title="line data in drawinfo_t" alt="" coords="365,5,510,32"/>
+</map>

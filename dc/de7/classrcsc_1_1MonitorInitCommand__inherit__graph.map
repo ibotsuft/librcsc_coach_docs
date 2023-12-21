@@ -1,0 +1,4 @@
+<map id="rcsc::MonitorInitCommand" name="rcsc::MonitorInitCommand">
+<area shape="rect" id="node1" title="initial connection command" alt="" coords="5,80,200,107"/>
+<area shape="rect" id="node2" href="$d1/d72/classrcsc_1_1MonitorCommand.html" title="abstract monitor command class" alt="" coords="16,5,189,32"/>
+</map>

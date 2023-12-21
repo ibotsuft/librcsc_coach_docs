@@ -1,0 +1,4 @@
+<map id="rcsc::ThermoColorProvider" name="rcsc::ThermoColorProvider">
+<area shape="rect" id="node1" title="thermo color provider class for converting float value to a color" alt="" coords="12,80,207,107"/>
+<area shape="rect" id="node2" href="$df/dc5/classrcsc_1_1GradationColorProvider.html" title="gradation color provider class for converting float value to a color" alt="" coords="5,5,213,32"/>
+</map>

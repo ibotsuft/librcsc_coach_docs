@@ -1,0 +1,4 @@
+<map id="rcsc::TrainerEarCommand" name="rcsc::TrainerEarCommand">
+<area shape="rect" id="node1" title="command to enable/disable trainer&#39;s ear" alt="" coords="5,80,193,107"/>
+<area shape="rect" id="node2" href="$dd/d64/classrcsc_1_1TrainerCommand.html" title="abstract trainer command class" alt="" coords="16,5,183,32"/>
+</map>

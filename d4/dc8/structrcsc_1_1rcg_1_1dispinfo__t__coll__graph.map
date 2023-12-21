@@ -1,0 +1,11 @@
+<map id="rcsc::rcg::dispinfo_t" name="rcsc::rcg::dispinfo_t">
+<area shape="rect" id="node1" title="data block for rcssmonitor v1 protocol and rcg v1/v2" alt="" coords="489,107,637,133"/>
+<area shape="rect" id="node2" href="$d8/d48/structrcsc_1_1rcg_1_1showinfo__t.html" title="view data of rcssmonitor v1 protocol" alt="" coords="248,56,403,83"/>
+<area shape="rect" id="node3" href="$de/dc1/structrcsc_1_1rcg_1_1team__t.html" title="team data" alt="" coords="18,5,149,32"/>
+<area shape="rect" id="node4" href="$d6/d64/structrcsc_1_1rcg_1_1pos__t.html" title="object data" alt="" coords="24,56,143,83"/>
+<area shape="rect" id="node5" href="$da/d93/structrcsc_1_1rcg_1_1msginfo__t.html" title="message data" alt="" coords="251,107,400,133"/>
+<area shape="rect" id="node6" href="$d9/d43/structrcsc_1_1rcg_1_1drawinfo__t.html" title="drawing data" alt="" coords="249,157,402,184"/>
+<area shape="rect" id="node7" href="$d2/d49/structrcsc_1_1rcg_1_1pointinfo__t.html" title="point data in drawinfo_t" alt="" coords="6,107,161,133"/>
+<area shape="rect" id="node8" href="$d7/d4c/structrcsc_1_1rcg_1_1circleinfo__t.html" title="circle data in drawinfo_t" alt="" coords="5,157,161,184"/>
+<area shape="rect" id="node9" href="$dc/ddb/structrcsc_1_1rcg_1_1lineinfo__t.html" title="line data in drawinfo_t" alt="" coords="11,208,156,235"/>
+</map>

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['playmode_0',['PlayMode',['../d9/d49/types_8h.html#a9ba4d9905c71f5313b13a1c8ca425d47',1,'rcsc']]]
+  ['flushtype_0',['FlushType',['../d6/d49/classrcsc_1_1gzfilterstreambuf.html#a71dc5f541984e577b7dde468f3b0e226',1,'rcsc::gzfilterstreambuf']]]
 ];

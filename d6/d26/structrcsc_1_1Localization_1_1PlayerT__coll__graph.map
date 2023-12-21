@@ -1,0 +1,4 @@
+<map id="rcsc::Localization::PlayerT" name="rcsc::Localization::PlayerT">
+<area shape="rect" id="node1" title="localized player info" alt="" coords="5,124,140,165"/>
+<area shape="rect" id="node2" href="$d2/d05/classrcsc_1_1Vector2D.html" title="2D point vector class" alt="" coords="15,5,130,32"/>
+</map>

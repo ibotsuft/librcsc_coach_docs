@@ -1,0 +1,6 @@
+<map id="rcsc::ParamEntity" name="rcsc::ParamEntity">
+<area shape="rect" id="node1" title="abstract parameter" alt="" coords="182,5,317,32"/>
+<area shape="rect" id="node2" href="$d8/df4/classrcsc_1_1ParamGeneric.html" title="generic parameter" alt="" coords="5,80,152,121"/>
+<area shape="rect" id="node3" href="$d1/d4d/classrcsc_1_1ParamGeneric_3_01bool_01_4.html" title="specialized template class" alt="" coords="176,80,323,121"/>
+<area shape="rect" id="node4" href="$de/d66/classrcsc_1_1ParamSwitch.html" title="switch type parameter" alt="" coords="347,87,487,114"/>
+</map>

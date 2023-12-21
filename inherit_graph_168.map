@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d0/df2/structrcsc_1_1VisualSensor_1_1PolarT.html" title="observable object info" alt="" coords="5,71,145,112"/>
+<area shape="rect" id="node2" href="$df/de6/structrcsc_1_1VisualSensor_1_1LineT.html" title="seen line info" alt="" coords="193,5,333,47"/>
+<area shape="rect" id="node3" href="$d3/d73/structrcsc_1_1VisualSensor_1_1MarkerT.html" title="seen marker flag info" alt="" coords="193,71,333,112"/>
+<area shape="rect" id="node4" href="$d6/df8/structrcsc_1_1VisualSensor_1_1MovableT.html" title="seen movable object info" alt="" coords="193,136,333,177"/>
+<area shape="rect" id="node5" href="$d8/dbc/structrcsc_1_1VisualSensor_1_1BallT.html" title="seen ball info" alt="" coords="381,103,521,144"/>
+<area shape="rect" id="node6" href="$de/d5e/structrcsc_1_1VisualSensor_1_1PlayerT.html" title="seen player info" alt="" coords="381,168,521,209"/>
+</map>

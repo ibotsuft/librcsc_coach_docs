@@ -1,0 +1,13 @@
+<map id="/home/kali/rc/tools/include/rcsc/player/view_mode.h" name="/home/kali/rc/tools/include/rcsc/player/view_mode.h">
+<area shape="rect" id="node1" title="player view mode data classes Header File" alt="" coords="292,5,440,61"/>
+<area shape="rect" id="node2" href="$db/d27/action__effector_8h.html" title="player&#39;s action effecto manager Header File" alt="" coords="304,213,452,269"/>
+<area shape="rect" id="node4" href="$dd/d7d/body__sensor_8h.html" title="sense_body sensor Header File" alt="" coords="34,109,182,165"/>
+<area shape="rect" id="node5" href="$d0/d7c/object__table_8h.html" title="seen object distance error table Header File" alt="" coords="206,109,354,165"/>
+<area shape="rect" id="node6" href="$df/d5a/player__command_8h.html" title="player command classes Header File" alt="" coords="378,109,528,165"/>
+<area shape="rect" id="node7" href="$d9/d93/see__state_8h.html" title="see synch state manager Header File" alt="" coords="476,213,624,269"/>
+<area shape="rect" id="node8" href="$d4/dcc/self__object_8h.html" title="self object class Header File" alt="" coords="634,109,782,165"/>
+<area shape="rect" id="node3" href="$de/d23/player__agent_8h.html" title="basic player agent Header File" alt="" coords="476,317,624,373"/>
+<area shape="rect" id="node9" href="$dc/d17/world__model_8h.html" title="world model Header File" alt="" coords="648,213,796,269"/>
+<area shape="rect" id="node10" href="$d6/df7/player__evaluator_8h.html" title="player evaluator classes" alt="" coords="648,317,796,373"/>
+<area shape="rect" id="node11" href="$d1/d4e/player__predicate_8h.html" title="player predicate classes Header File" alt="" coords="820,317,968,373"/>
+</map>

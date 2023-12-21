@@ -1,6 +1,10 @@
 <map id="/home/kali/rc/tools/include/rcsc/gz.h" name="/home/kali/rc/tools/include/rcsc/gz.h">
-<area shape="rect" id="node1" title="gzip library Header File." alt="" coords="219,5,362,47"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,95,179,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="203,95,378,121"/>
-<area shape="rect" id="node4" title=" " alt="" coords="403,95,552,121"/>
+<area shape="rect" id="node1" title="gzip library Header File." alt="" coords="206,5,349,47"/>
+<area shape="rect" id="node2" href="$d7/d30/gzcompressor_8h.html" title="gzip compressor/decompressor Header File." alt="" coords="5,95,179,121"/>
+<area shape="rect" id="node5" href="$d3/d1b/gzfilterstream_8h.html" title="gzip filtering stream Header File." alt="" coords="377,95,551,121"/>
+<area shape="rect" id="node8" href="$d0/dd6/gzfstream_8h.html" title="gzip file stream Header File." alt="" coords="203,95,352,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="75,169,152,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="176,169,235,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="384,169,544,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="259,169,339,196"/>
 </map>

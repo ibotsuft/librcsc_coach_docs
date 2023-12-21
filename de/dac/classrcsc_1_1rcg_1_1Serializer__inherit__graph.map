@@ -1,0 +1,9 @@
+<map id="rcsc::rcg::Serializer" name="rcsc::rcg::Serializer">
+<area shape="rect" id="node1" title="rcg data serializer interface class" alt="" coords="5,81,151,108"/>
+<area shape="rect" id="node2" href="$d9/d8c/classrcsc_1_1rcg_1_1SerializerV1.html" title="v1 format rcg data serializer interface class" alt="" coords="199,5,361,32"/>
+<area shape="rect" id="node3" href="$da/de1/classrcsc_1_1rcg_1_1SerializerV2.html" title="v2 format rcg data serializer interface class" alt="" coords="199,56,361,83"/>
+<area shape="rect" id="node4" href="$d6/d35/classrcsc_1_1rcg_1_1SerializerV3.html" title="rcg data serializer interface class" alt="" coords="199,107,361,133"/>
+<area shape="rect" id="node5" href="$d8/d34/classrcsc_1_1rcg_1_1SerializerV4.html" title="rcg data serializer interface class" alt="" coords="199,157,361,184"/>
+<area shape="rect" id="node6" href="$df/d00/classrcsc_1_1rcg_1_1SerializerV5.html" title="rcg data serializer interface class" alt="" coords="409,157,572,184"/>
+<area shape="rect" id="node7" href="$d7/d25/classrcsc_1_1rcg_1_1SerializerV6.html" title="rcg data serializer interface class" alt="" coords="620,157,783,184"/>
+</map>

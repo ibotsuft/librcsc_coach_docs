@@ -1,0 +1,10 @@
+<map id="rcsc::PlayerBodyCommand" name="rcsc::PlayerBodyCommand">
+<area shape="rect" id="node1" title="abstract body command" alt="" coords="217,132,415,159"/>
+<area shape="rect" id="node3" href="$df/de0/classrcsc_1_1PlayerCatchCommand.html" title="goalie&#39;s catch command" alt="" coords="465,5,666,32"/>
+<area shape="rect" id="node4" href="$d5/d72/classrcsc_1_1PlayerDashCommand.html" title="player&#39;s dash command" alt="" coords="467,56,664,83"/>
+<area shape="rect" id="node5" href="$d5/dd3/classrcsc_1_1PlayerKickCommand.html" title="kick command" alt="" coords="469,107,661,133"/>
+<area shape="rect" id="node6" href="$d2/d5c/classrcsc_1_1PlayerMoveCommand.html" title="player&#39;s move command" alt="" coords="465,157,665,184"/>
+<area shape="rect" id="node7" href="$d8/dcb/classrcsc_1_1PlayerTackleCommand.html" title="player&#39;s tackle command" alt="" coords="463,208,668,235"/>
+<area shape="rect" id="node8" href="$d4/dc4/classrcsc_1_1PlayerTurnCommand.html" title="turn command" alt="" coords="470,259,661,285"/>
+<area shape="rect" id="node2" href="$df/df1/classrcsc_1_1PlayerCommand.html" title="abstract player command class" alt="" coords="5,132,169,159"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="/home/kali/rc/tools/include/rcsc/common/stamina_model.h" name="/home/kali/rc/tools/include/rcsc/common/stamina_model.h">
+<area shape="rect" id="node1" title="player&#39;s stamina model Header File" alt="" coords="282,5,446,61"/>
+<area shape="rect" id="node2" href="$d6/df6/coach__player__object_8h.html" title="player object class for coach/trainer Header file." alt="" coords="187,109,357,165"/>
+<area shape="rect" id="node8" href="$d4/dcc/self__object_8h.html" title="self object class Header File" alt="" coords="437,109,585,165"/>
+<area shape="rect" id="node3" href="$d0/d0f/coach__visual__sensor_8h.html" title="coach/trainer visual sensor data holder class Header File" alt="" coords="5,213,176,269"/>
+<area shape="rect" id="node4" href="$dd/dcb/coach__world__model_8h.html" title="coach/trainer world model class Header File" alt="" coords="130,317,297,373"/>
+<area shape="rect" id="node7" href="$d6/da1/coach__world__state_8h.html" title="coach/trainer world state class Header File" alt="" coords="251,213,410,269"/>
+<area shape="rect" id="node5" href="$dc/dd1/coach__agent_8h.html" title="basic coach agent Header File" alt="" coords="55,421,201,477"/>
+<area shape="rect" id="node6" href="$dd/d78/trainer__agent_8h.html" title="basic trainer agent Header File" alt="" coords="225,421,375,477"/>
+<area shape="rect" id="node9" href="$dc/d17/world__model_8h.html" title="world model Header File" alt="" coords="465,213,613,269"/>
+<area shape="rect" id="node10" href="$de/d23/player__agent_8h.html" title="basic player agent Header File" alt="" coords="321,317,469,373"/>
+<area shape="rect" id="node11" href="$d6/df7/player__evaluator_8h.html" title="player evaluator classes" alt="" coords="493,317,641,373"/>
+<area shape="rect" id="node12" href="$d1/d4e/player__predicate_8h.html" title="player predicate classes Header File" alt="" coords="665,317,813,373"/>
+</map>

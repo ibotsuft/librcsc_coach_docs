@@ -1,0 +1,11 @@
+<map id="rcsc::rcg::dispinfo_t2" name="rcsc::rcg::dispinfo_t2">
+<area shape="rect" id="node1" title="data block for rcssmonitor v2 protocol." alt="" coords="532,157,688,184"/>
+<area shape="rect" id="node2" href="$df/dc3/structrcsc_1_1rcg_1_1showinfo__t2.html" title="view data of rcssmonitor v2 protocol" alt="" coords="245,56,407,83"/>
+<area shape="rect" id="node3" href="$de/dc1/structrcsc_1_1rcg_1_1team__t.html" title="team data" alt="" coords="9,5,139,32"/>
+<area shape="rect" id="node4" href="$de/d9a/structrcsc_1_1rcg_1_1ball__t.html" title="ball data" alt="" coords="14,56,134,83"/>
+<area shape="rect" id="node5" href="$dc/df6/structrcsc_1_1rcg_1_1player__t.html" title="player data" alt="" coords="5,107,143,133"/>
+<area shape="rect" id="node6" href="$da/d93/structrcsc_1_1rcg_1_1msginfo__t.html" title="message data" alt="" coords="251,107,401,133"/>
+<area shape="rect" id="node7" href="$d2/d43/structrcsc_1_1rcg_1_1player__type__t.html" title="player type parameters" alt="" coords="239,157,413,184"/>
+<area shape="rect" id="node8" href="$d1/d78/structrcsc_1_1rcg_1_1server__params__t.html" title="server parametors" alt="" coords="229,208,423,235"/>
+<area shape="rect" id="node9" href="$d1/df6/structrcsc_1_1rcg_1_1player__params__t.html" title="heterogenious player trade&#45;off parametors" alt="" coords="229,259,423,285"/>
+</map>

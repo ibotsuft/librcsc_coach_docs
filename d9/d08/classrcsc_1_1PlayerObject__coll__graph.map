@@ -1,0 +1,7 @@
+<map id="rcsc::PlayerObject" name="rcsc::PlayerObject">
+<area shape="rect" id="node1" title="observed player object class" alt="" coords="145,229,283,256"/>
+<area shape="rect" id="node2" href="$dd/de5/classrcsc_1_1AbstractPlayerObject.html" title="abstact player object class" alt="" coords="117,153,311,180"/>
+<area shape="rect" id="node3" href="$da/d08/classrcsc_1_1PlayerType.html" title="heterogeneous player parametor class" alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node4" href="$d2/d05/classrcsc_1_1Vector2D.html" title="2D point vector class" alt="" coords="157,5,271,32"/>
+<area shape="rect" id="node5" href="$da/d2e/classrcsc_1_1AngleDeg.html" title="degree wrapper class" alt="" coords="411,5,529,32"/>
+</map>

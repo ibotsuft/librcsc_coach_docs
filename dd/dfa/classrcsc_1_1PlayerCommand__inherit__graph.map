@@ -1,0 +1,26 @@
+<map id="rcsc::PlayerCommand" name="rcsc::PlayerCommand">
+<area shape="rect" id="node1" title="abstract player command class" alt="" coords="5,360,169,387"/>
+<area shape="rect" id="node2" href="$dc/d3c/classrcsc_1_1PlayerBodyCommand.html" title="abstract body command" alt="" coords="235,157,432,184"/>
+<area shape="rect" id="node9" href="$dc/d5d/classrcsc_1_1PlayerByeCommand.html" title="player&#39;s disconnect command" alt="" coords="239,309,428,336"/>
+<area shape="rect" id="node10" href="$df/d57/classrcsc_1_1PlayerInitCommand.html" title="player&#39;s init command" alt="" coords="241,360,426,387"/>
+<area shape="rect" id="node11" href="$d4/d37/classrcsc_1_1PlayerReconnectCommand.html" title="reconnect command" alt="" coords="217,411,449,437"/>
+<area shape="rect" id="node12" href="$d1/dac/classrcsc_1_1PlayerSupportCommand.html" title="abstract support command" alt="" coords="226,563,441,589"/>
+<area shape="rect" id="node3" href="$df/de0/classrcsc_1_1PlayerCatchCommand.html" title="goalie&#39;s catch command" alt="" coords="522,5,723,32"/>
+<area shape="rect" id="node4" href="$d5/d72/classrcsc_1_1PlayerDashCommand.html" title="player&#39;s dash command" alt="" coords="524,56,721,83"/>
+<area shape="rect" id="node5" href="$d5/dd3/classrcsc_1_1PlayerKickCommand.html" title="kick command" alt="" coords="527,107,719,133"/>
+<area shape="rect" id="node6" href="$d2/d5c/classrcsc_1_1PlayerMoveCommand.html" title="player&#39;s move command" alt="" coords="523,157,723,184"/>
+<area shape="rect" id="node7" href="$d8/dcb/classrcsc_1_1PlayerTackleCommand.html" title="player&#39;s tackle command" alt="" coords="520,208,725,235"/>
+<area shape="rect" id="node8" href="$d4/dc4/classrcsc_1_1PlayerTurnCommand.html" title="turn command" alt="" coords="527,259,718,285"/>
+<area shape="rect" id="node13" href="$d9/d38/classrcsc_1_1PlayerAttentiontoCommand.html" title="player&#39;s attentionto command" alt="" coords="504,309,741,336"/>
+<area shape="rect" id="node14" href="$d3/d28/classrcsc_1_1PlayerCLangCommand.html" title="command to specify the player&#39;s supported clang version" alt="" coords="521,360,725,387"/>
+<area shape="rect" id="node15" href="$d3/d15/classrcsc_1_1PlayerChangeFocusCommand.html" title="player&#39;s change focus command" alt="" coords="497,411,748,437"/>
+<area shape="rect" id="node16" href="$d4/d3b/classrcsc_1_1PlayerChangeViewCommand.html" title="player&#39;s change view command" alt="" coords="500,461,745,488"/>
+<area shape="rect" id="node17" href="$d8/d1c/classrcsc_1_1PlayerCompressionCommand.html" title="command to set message compression level" alt="" coords="498,512,747,539"/>
+<area shape="rect" id="node18" href="$d9/d72/classrcsc_1_1PlayerDoneCommand.html" title="command to send done command for (think) message in synch_mode" alt="" coords="523,563,722,589"/>
+<area shape="rect" id="node19" href="$d8/d09/classrcsc_1_1PlayerEarCommand.html" title="command to specify player&#39;s ear mode" alt="" coords="530,613,715,640"/>
+<area shape="rect" id="node20" href="$da/d39/classrcsc_1_1PlayerPointtoCommand.html" title="player&#39;s turn neck command" alt="" coords="517,664,728,691"/>
+<area shape="rect" id="node21" href="$d2/d05/classrcsc_1_1PlayerSayCommand.html" title="player&#39;s say command" alt="" coords="529,715,717,741"/>
+<area shape="rect" id="node22" href="$dc/d50/classrcsc_1_1PlayerScoreCommand.html" title="command to require current game score" alt="" coords="523,765,723,792"/>
+<area shape="rect" id="node23" href="$d6/d86/classrcsc_1_1PlayerSenseBodyCommand.html" title="command to require sense_body" alt="" coords="505,816,741,843"/>
+<area shape="rect" id="node24" href="$de/d11/classrcsc_1_1PlayerTurnNeckCommand.html" title="player&#39;s turn neck command" alt="" coords="511,867,735,893"/>
+</map>

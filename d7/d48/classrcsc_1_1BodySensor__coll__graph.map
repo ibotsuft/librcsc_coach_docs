@@ -1,0 +1,6 @@
+<map id="rcsc::BodySensor" name="rcsc::BodySensor">
+<area shape="rect" id="node1" title="sense_body info holder" alt="" coords="159,95,292,121"/>
+<area shape="rect" id="node2" href="$db/d11/classrcsc_1_1GameTime.html" title="game time object" alt="" coords="5,5,133,32"/>
+<area shape="rect" id="node3" href="$de/d40/classrcsc_1_1ViewQuality.html" title="view quality data class" alt="" coords="158,5,293,32"/>
+<area shape="rect" id="node4" href="$d0/d4f/classrcsc_1_1ViewWidth.html" title="view width data class" alt="" coords="317,5,443,32"/>
+</map>

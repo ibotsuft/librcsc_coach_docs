@@ -1,0 +1,32 @@
+<map id="/home/kali/rc/tools/include/rcsc/rcg/types.h" name="/home/kali/rc/tools/include/rcsc/rcg/types.h">
+<area shape="rect" id="node1" title="rcg data format types." alt="" coords="785,5,964,47"/>
+<area shape="rect" id="node2" href="$d0/d0f/coach__visual__sensor_8h.html" title="coach/trainer visual sensor data holder class Header File" alt="" coords="5,303,176,359"/>
+<area shape="rect" id="node3" href="$d2/d37/player__param_8h.html" title="player_param for rcssserver Header File" alt="" coords="129,95,293,151"/>
+<area shape="rect" id="node4" href="$d2/d8a/player__type_8h.html" title="heterogenious player parametor Header File" alt="" coords="317,95,481,151"/>
+<area shape="rect" id="node17" href="$d4/dfa/rcg_8h.html" title="RCG library Header File." alt="" coords="1066,206,1209,247"/>
+<area shape="rect" id="node18" href="$dd/dee/handler_8h.html" title="rcg data handler Header File." alt="" coords="557,102,747,143"/>
+<area shape="rect" id="node19" href="$dd/d2b/parser__v1_8h.html" title="rcg v1 parser Header File." alt="" coords="771,102,978,143"/>
+<area shape="rect" id="node20" href="$d9/db3/parser__v2_8h.html" title="rcg v2 parser Header File." alt="" coords="1002,102,1209,143"/>
+<area shape="rect" id="node21" href="$df/d23/parser__v3_8h.html" title="rcg v3 parser Header File." alt="" coords="1233,102,1439,143"/>
+<area shape="rect" id="node22" href="$dc/d16/parser__v4_8h.html" title="rcg v4 parser Header File." alt="" coords="1463,102,1670,143"/>
+<area shape="rect" id="node23" href="$dd/d5f/serializer_8h.html" title="rcg serializer class Header File." alt="" coords="1883,102,2085,143"/>
+<area shape="rect" id="node30" href="$d8/d3c/util_8h.html" title="utilities for rcg data Header File." alt="" coords="1694,102,1858,143"/>
+<area shape="rect" id="node5" href="$d6/df6/coach__player__object_8h.html" title="player object class for coach/trainer Header file." alt="" coords="187,199,357,255"/>
+<area shape="rect" id="node10" href="$d1/df8/abstract__player__object_8h.html" title="abstract player object class Header File" alt="" coords="467,199,653,255"/>
+<area shape="rect" id="node6" href="$dd/dcb/coach__world__model_8h.html" title="coach/trainer world model class Header File" alt="" coords="186,407,353,463"/>
+<area shape="rect" id="node9" href="$d6/da1/coach__world__state_8h.html" title="coach/trainer world state class Header File" alt="" coords="251,303,410,359"/>
+<area shape="rect" id="node7" href="$dc/dd1/coach__agent_8h.html" title="basic coach agent Header File" alt="" coords="30,511,175,567"/>
+<area shape="rect" id="node8" href="$dd/d78/trainer__agent_8h.html" title="basic trainer agent Header File" alt="" coords="199,511,350,567"/>
+<area shape="rect" id="node11" href="$d6/df7/player__evaluator_8h.html" title="player evaluator classes" alt="" coords="383,511,531,567"/>
+<area shape="rect" id="node12" href="$d6/dc9/player__object_8h.html" title="player object class Header File" alt="" coords="486,303,634,359"/>
+<area shape="rect" id="node15" href="$d1/d4e/player__predicate_8h.html" title="player predicate classes Header File" alt="" coords="766,511,914,567"/>
+<area shape="rect" id="node16" href="$d4/dcc/self__object_8h.html" title="self object class Header File" alt="" coords="658,303,806,359"/>
+<area shape="rect" id="node13" href="$dc/d17/world__model_8h.html" title="world model Header File" alt="" coords="581,407,729,463"/>
+<area shape="rect" id="node14" href="$de/d23/player__agent_8h.html" title="basic player agent Header File" alt="" coords="581,511,729,567"/>
+<area shape="rect" id="node24" href="$de/dfa/serializer__v1_8h.html" title="v1 format serializer class Header File." alt="" coords="1495,206,1721,247"/>
+<area shape="rect" id="node25" href="$dc/d98/serializer__v2_8h.html" title="v2 format serializer class Header File." alt="" coords="1745,206,1972,247"/>
+<area shape="rect" id="node26" href="$d3/dba/serializer__v3_8h.html" title="v3 format rcg serializer class Header File." alt="" coords="1996,206,2223,247"/>
+<area shape="rect" id="node27" href="$d7/db3/serializer__v4_8h.html" title="v4 format rcg serializer class Header File." alt="" coords="2247,206,2473,247"/>
+<area shape="rect" id="node28" href="$d6/d39/serializer__v5_8h.html" title="v5 format rcg serializer class Header File." alt="" coords="2247,310,2473,351"/>
+<area shape="rect" id="node29" href="$d2/d85/serializer__v6_8h.html" title="v6 format rcg serializer class Header File." alt="" coords="2247,414,2473,455"/>
+</map>

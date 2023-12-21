@@ -1,0 +1,13 @@
+<map id="/home/kali/rc/tools/include/rcsc/player/say_message_builder.h" name="/home/kali/rc/tools/include/rcsc/player/say_message_builder.h">
+<area shape="rect" id="node1" title="player&#39;s say message builder Header File" alt="" coords="301,5,480,61"/>
+<area shape="rect" id="node2" href="$da/db6/say__message_8h.html" title="abstract player&#39;s say message Header File" alt="" coords="283,117,498,143"/>
+<area shape="rect" id="node4" title=" " alt="" coords="216,199,275,225"/>
+<area shape="rect" id="node5" title=" " alt="" coords="521,273,601,300"/>
+<area shape="rect" id="node6" href="$d6/d1d/say__message__parser_8h.html" title="player&#39;s say message parser Header File" alt="" coords="5,109,208,151"/>
+<area shape="rect" id="node8" href="$d1/d2b/vector__2d_8h.html" title="2d vector class Header File." alt="" coords="601,117,770,143"/>
+<area shape="rect" id="node3" title=" " alt="" coords="325,199,403,225"/>
+<area shape="rect" id="node7" href="$d9/d49/types_8h.html" title="the type definition set for the RCSSServer2D" alt="" coords="57,199,157,225"/>
+<area shape="rect" id="node9" href="$d6/dcb/angle__deg_8h.html" title="degree wrapper class Header File." alt="" coords="625,199,797,225"/>
+<area shape="rect" id="node11" title=" " alt="" coords="790,273,853,300"/>
+<area shape="rect" id="node10" title=" " alt="" coords="667,273,754,300"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="/home/kali/rc/tools/include/rcsc/geom/angle_deg.h" name="/home/kali/rc/tools/include/rcsc/geom/angle_deg.h">
+<area shape="rect" id="node1" title="degree wrapper class Header File." alt="" coords="4438,5,4665,47"/>
+<area shape="rect" id="node2" href="$d3/df5/geom_8h.html" title="geometry library Header File" alt="" coords="1028,518,1184,559"/>
+<area shape="rect" id="node3" href="$d3/dc1/matrix__2d_8h.html" title="2D transform matrix class Header File." alt="" coords="338,199,565,240"/>
+<area shape="rect" id="node4" href="$d1/d2b/vector__2d_8h.html" title="2d vector class Header File." alt="" coords="2893,95,3117,136"/>
+<area shape="rect" id="node13" href="$d1/df8/abstract__player__object_8h.html" title="abstract player object class Header File" alt="" coords="5142,407,5329,463"/>
+<area shape="rect" id="node15" href="$d6/dc9/player__object_8h.html" title="player object class Header File" alt="" coords="5031,511,5179,567"/>
+<area shape="rect" id="node44" href="$df/d5a/player__command_8h.html" title="player command classes Header File" alt="" coords="4476,191,4627,247"/>
+<area shape="rect" id="node47" href="$de/d39/view__area_8h.html" title="player&#39;s view area type Header File" alt="" coords="5505,191,5653,247"/>
+<area shape="rect" id="node5" href="$da/d32/coach__audio__sensor_8h.html" title="audio message analyzer for coach Header File" alt="" coords="2921,191,3089,247"/>
+<area shape="rect" id="node6" href="$d9/d45/coach__ball__object_8h.html" title="ball object class for coach/trainer Header file." alt="" coords="3971,191,4126,247"/>
+<area shape="rect" id="node7" href="$da/d51/player__type__analyzer_8h.html" title="player type analyzer class Header File" alt="" coords="4005,303,4183,359"/>
+<area shape="rect" id="node8" href="$d6/df6/coach__player__object_8h.html" title="player object class for coach/trainer Header file." alt="" coords="4614,407,4785,463"/>
+<area shape="rect" id="node9" href="$dc/d92/audio__codec_8h.html" title="audio message encoder/decoder Header File" alt="" coords="3543,191,3707,247"/>
+<area shape="rect" id="node10" href="$dd/d11/audio__memory_8h.html" title="communication message data holder Header File" alt="" coords="3783,191,3947,247"/>
+<area shape="rect" id="node11" href="$d1/d8c/logger_8h.html" title="Logger class Header File." alt="" coords="323,511,487,567"/>
+<area shape="rect" id="node12" href="$d2/d8a/player__type_8h.html" title="heterogenious player parametor Header File" alt="" coords="4788,303,4952,359"/>
+<area shape="rect" id="node14" href="$d6/df7/player__evaluator_8h.html" title="player evaluator classes" alt="" coords="5160,719,5308,775"/>
+<area shape="rect" id="node16" href="$dc/d17/world__model_8h.html" title="world model Header File" alt="" coords="4944,615,5092,671"/>
+<area shape="rect" id="node17" href="$d4/dcc/self__object_8h.html" title="self object class Header File" alt="" coords="4859,511,5007,567"/>
+<area shape="rect" id="node18" href="$da/da7/server__param_8h.html" title="server parametor Header File" alt="" coords="1899,407,2063,463"/>
+<area shape="rect" id="node19" href="$d0/de3/ball__object_8h.html" title="ball object class Header File" alt="" coords="3684,511,3832,567"/>
+<area shape="rect" id="node20" href="$d9/da8/formation_8h.html" title="abstract formation classes Header File." alt="" coords="847,303,1018,359"/>
+<area shape="rect" id="node21" href="$d9/de3/formation__static_8h.html" title="static type formation method classes Header File." alt="" coords="898,407,1069,463"/>
+<area shape="rect" id="node22" href="$db/dbe/formation__data_8h.html" title="formation sample data class Header File." alt="" coords="847,191,1018,247"/>
+<area shape="rect" id="node23" href="$dc/df9/circle__2d_8h.html" title="2D circle region Header File." alt="" coords="295,414,514,455"/>
+<area shape="rect" id="node24" href="$db/ddf/convex__hull_8h.html" title="2D convex hull Header File." alt="" coords="1143,407,1338,463"/>
+<area shape="rect" id="node25" href="$d0/dec/delaunay__triangulation_8h.html" title="Delaunay Triangulation class Header File." alt="" coords="1615,407,1823,463"/>
+<area shape="rect" id="node26" href="$d3/d56/voronoi__diagram_8h.html" title="2D voronoi diagram Header File." alt="" coords="1762,511,1959,567"/>
+<area shape="rect" id="node27" href="$de/d1a/line__2d_8h.html" title="2D straight line Header File." alt="" coords="1245,199,1452,240"/>
+<area shape="rect" id="node28" href="$d6/d82/ray__2d_8h.html" title="2D ray line class Header File." alt="" coords="2120,310,2324,351"/>
+<area shape="rect" id="node29" href="$d3/d4c/voronoi__diagram__triangle_8h.html" title="2D voronoi diagram Header File." alt="" coords="2087,407,2285,463"/>
+<area shape="rect" id="node30" href="$da/def/rect__2d_8h.html" title="2D rectangle region Header File." alt="" coords="1659,310,1867,351"/>
+<area shape="rect" id="node31" href="$d9/d70/segment__2d_8h.html" title="2D segment line Header File." alt="" coords="1199,310,1439,351"/>
+<area shape="rect" id="node32" href="$d0/d6f/triangle__2d_8h.html" title="2D triangle class Header File." alt="" coords="640,414,873,455"/>
+<area shape="rect" id="node33" href="$d7/d1a/sector__2d_8h.html" title="2D sector region Header File." alt="" coords="48,414,271,455"/>
+<area shape="rect" id="node34" href="$d7/d27/triangulation_8h.html" title="2D triangulation Header File." alt="" coords="1527,199,1770,240"/>
+<area shape="rect" id="node35" href="$db/d27/action__effector_8h.html" title="player&#39;s action effecto manager Header File" alt="" coords="3671,303,3819,359"/>
+<area shape="rect" id="node36" href="$df/d9f/audio__sensor_8h.html" title="audio message analyzer Header File" alt="" coords="1845,191,1993,247"/>
+<area shape="rect" id="node37" href="$d8/d63/fullstate__sensor_8h.html" title="fullstate info sensor Header File" alt="" coords="4860,407,5008,463"/>
+<area shape="rect" id="node38" href="$d7/d10/intercept_8h.html" title="intercept action type Header File" alt="" coords="4252,191,4400,247"/>
+<area shape="rect" id="node39" href="$d8/d79/intercept__table_8h.html" title="interception info holder Header File" alt="" coords="4252,303,4400,359"/>
+<area shape="rect" id="node40" href="$d5/d01/intercept__simulator__player_8h.html" title="intercept simulator for other players Header File" alt="" coords="2171,184,2324,255"/>
+<area shape="rect" id="node41" href="$dd/d58/intercept__simulator__self__v17_8h.html" title="intercept simulator for self" alt="" coords="2348,184,2501,255"/>
+<area shape="rect" id="node42" href="$dc/d7f/localization_8h.html" title="localization module Header File" alt="" coords="5079,303,5227,359"/>
+<area shape="rect" id="node43" href="$d0/d7c/object__table_8h.html" title="seen object distance error table Header File" alt="" coords="2525,191,2673,247"/>
+<area shape="rect" id="node45" href="$dc/d43/player__state_8h.html" title="player state data class Header file." alt="" coords="2697,191,2845,247"/>
+<area shape="rect" id="node46" href="$d7/d1a/say__message__builder_8h.html" title="player&#39;s say message builder Header File" alt="" coords="3339,191,3518,247"/>
+<area shape="rect" id="node48" href="$d6/dee/view__grid__map_8h.html" title="field grid map scored by see info Header File" alt="" coords="4556,511,4704,567"/>
+<area shape="rect" id="node49" href="$d4/d08/soccer__math_8h.html" title="math utility depending on RCSSServer2D Header File" alt="" coords="4753,191,4902,247"/>
+<area shape="rect" id="node50" href="$dd/d78/trainer__agent_8h.html" title="basic trainer agent Header File" alt="" coords="3113,191,3264,247"/>
+</map>

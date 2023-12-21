@@ -1,0 +1,4 @@
+<map id="rcsc::OffsideLineMessageParser" name="rcsc::OffsideLineMessageParser">
+<area shape="rect" id="node1" title="offside line info message parser" alt="" coords="5,80,192,121"/>
+<area shape="rect" id="node2" href="$df/ddc/classrcsc_1_1SayMessageParser.html" title="abstract player&#39;s say message parser" alt="" coords="9,5,188,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="rcsc::DistFromPosPlayerEvaluator" name="rcsc::DistFromPosPlayerEvaluator">
+<area shape="rect" id="node1" title="evaluation by distance from position" alt="" coords="5,80,247,107"/>
+<area shape="rect" id="node2" href="$d7/d93/classrcsc_1_1PlayerEvaluator.html" title="abstract player evaluator function object class" alt="" coords="47,5,205,32"/>
+</map>

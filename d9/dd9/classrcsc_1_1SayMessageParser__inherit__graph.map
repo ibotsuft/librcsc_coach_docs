@@ -1,0 +1,26 @@
+<map id="rcsc::SayMessageParser" name="rcsc::SayMessageParser">
+<area shape="rect" id="node1" title="abstract player&#39;s say message parser" alt="" coords="5,625,184,652"/>
+<area shape="rect" id="node2" href="$d0/d0e/classrcsc_1_1BallGoalieMessageParser.html" title="ball &amp; goalie info message parser" alt="" coords="234,5,455,32"/>
+<area shape="rect" id="node3" href="$d0/d25/classrcsc_1_1BallMessageParser.html" title="ball info message parser" alt="" coords="255,56,434,83"/>
+<area shape="rect" id="node4" href="$d3/dba/classrcsc_1_1BallPlayerMessageParser.html" title="ball &amp; player info message parser" alt="" coords="235,107,455,133"/>
+<area shape="rect" id="node5" href="$d8/d91/classrcsc_1_1DefenseLineMessageParser.html" title="offside line info message parser" alt="" coords="247,158,442,199"/>
+<area shape="rect" id="node6" href="$dc/d14/classrcsc_1_1DribbleMessageParser.html" title="dribble target point message parser" alt="" coords="244,224,445,251"/>
+<area shape="rect" id="node7" href="$d5/dc3/classrcsc_1_1FreeMessageParser.html" title="player&#39;s freeform say message parser" alt="" coords="253,275,436,317"/>
+<area shape="rect" id="node8" href="$d8/d0f/classrcsc_1_1GoalieAndPlayerMessageParser.html" title="opponent goalie &amp; field player message parser" alt="" coords="233,341,456,382"/>
+<area shape="rect" id="node9" href="$d0/d93/classrcsc_1_1GoalieMessageParser.html" title="opponent goalie info message parser" alt="" coords="247,407,443,433"/>
+<area shape="rect" id="node10" href="$df/de7/classrcsc_1_1InterceptMessageParser.html" title="intercept info message parser" alt="" coords="239,457,451,484"/>
+<area shape="rect" id="node11" href="$d4/d6a/classrcsc_1_1OffsideLineMessageParser.html" title="offside line info message parser" alt="" coords="251,509,438,550"/>
+<area shape="rect" id="node12" href="$d6/d85/classrcsc_1_1OnePlayerMessageParser.html" title="player info message parser" alt="" coords="234,575,455,601"/>
+<area shape="rect" id="node13" href="$de/d80/classrcsc_1_1OpponentMessageParser.html" title="opponent info message parser" alt="" coords="236,625,453,652"/>
+<area shape="rect" id="node14" href="$d0/df3/classrcsc_1_1PassMessageParser.html" title="pass info message parser" alt="" coords="253,676,436,703"/>
+<area shape="rect" id="node15" href="$dd/de3/classrcsc_1_1PassRequestMessageParser.html" title="pass request (hey pass) message parser" alt="" coords="247,727,443,769"/>
+<area shape="rect" id="node16" href="$d1/d79/classrcsc_1_1RecoveryMessageParser.html" title="recovery rate value message parser" alt="" coords="237,793,452,820"/>
+<area shape="rect" id="node17" href="$d8/d3d/classrcsc_1_1SelfMessageParser.html" title="self info message parser" alt="" coords="255,844,434,871"/>
+<area shape="rect" id="node18" href="$d1/ddb/classrcsc_1_1SetplayMessageParser.html" title="setplay information message parser" alt="" coords="243,895,446,921"/>
+<area shape="rect" id="node19" href="$d5/ddb/classrcsc_1_1StaminaCapacityMessageParser.html" title="stamina capacity rate value message parser" alt="" coords="232,946,457,987"/>
+<area shape="rect" id="node20" href="$d9/d90/classrcsc_1_1StaminaMessageParser.html" title="stamina rate value message parser" alt="" coords="241,1012,449,1039"/>
+<area shape="rect" id="node21" href="$db/d42/classrcsc_1_1TeammateMessageParser.html" title="teammate info message parser" alt="" coords="233,1063,456,1089"/>
+<area shape="rect" id="node22" href="$d5/d17/classrcsc_1_1ThreePlayerMessageParser.html" title="3 players info message parser" alt="" coords="249,1114,441,1155"/>
+<area shape="rect" id="node23" href="$da/d8b/classrcsc_1_1TwoPlayerMessageParser.html" title="2 players info message parser" alt="" coords="235,1180,455,1207"/>
+<area shape="rect" id="node24" href="$d3/d67/classrcsc_1_1WaitRequestMessageParser.html" title="wait request message parser" alt="" coords="247,1231,443,1273"/>
+</map>

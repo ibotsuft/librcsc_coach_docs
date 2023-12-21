@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['markerid_0',['MarkerID',['../d9/d49/types_8h.html#a18113cadfe79dfec6168a9c5a076923b',1,'rcsc']]]
+  ['dispinfomode_0',['DispInfoMode',['../d6/db0/rcg_2types_8h.html#a4cbdfce7a51af72527252679c253a008',1,'rcsc::rcg']]]
 ];

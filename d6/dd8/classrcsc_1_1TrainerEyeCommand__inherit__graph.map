@@ -1,0 +1,4 @@
+<map id="rcsc::TrainerEyeCommand" name="rcsc::TrainerEyeCommand">
+<area shape="rect" id="node1" title="command to enable/dispable trainer&#39;s eye" alt="" coords="5,80,196,107"/>
+<area shape="rect" id="node2" href="$dd/d64/classrcsc_1_1TrainerCommand.html" title="abstract trainer command class" alt="" coords="17,5,184,32"/>
+</map>

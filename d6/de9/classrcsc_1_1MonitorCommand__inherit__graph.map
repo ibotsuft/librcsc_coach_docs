@@ -1,0 +1,12 @@
+<map id="rcsc::MonitorCommand" name="rcsc::MonitorCommand">
+<area shape="rect" id="node1" title="abstract monitor command class" alt="" coords="5,239,179,265"/>
+<area shape="rect" id="node2" href="$d5/de9/classrcsc_1_1MonitorByeCommand.html" title="disconnection command" alt="" coords="253,5,451,32"/>
+<area shape="rect" id="node3" href="$df/d89/classrcsc_1_1MonitorCardCommand.html" title="command to give yellow/red card to a player" alt="" coords="251,56,453,83"/>
+<area shape="rect" id="node4" href="$d3/d49/classrcsc_1_1MonitorCompressionCommand.html" title="set compression level for sserver message" alt="" coords="257,107,447,149"/>
+<area shape="rect" id="node5" href="$de/d0d/classrcsc_1_1MonitorDiscardPlayerCommand.html" title="command to disscard a player from the server" alt="" coords="254,173,450,214"/>
+<area shape="rect" id="node6" href="$de/d28/classrcsc_1_1MonitorDropBallCommand.html" title="drop ball at the specified point on the pitch." alt="" coords="237,239,467,265"/>
+<area shape="rect" id="node7" href="$d9/dc5/classrcsc_1_1MonitorFreeKickCommand.html" title="freekick awarded at the specified point on the pitch." alt="" coords="237,289,467,316"/>
+<area shape="rect" id="node8" href="$d2/d02/classrcsc_1_1MonitorInitCommand.html" title="initial connection command" alt="" coords="255,340,449,367"/>
+<area shape="rect" id="node9" href="$d7/d37/classrcsc_1_1MonitorKickOffCommand.html" title="game start command" alt="" coords="242,391,462,417"/>
+<area shape="rect" id="node10" href="$d0/dc9/classrcsc_1_1MonitorMovePlayerCommand.html" title="command to move player on the pitch" alt="" coords="227,441,477,468"/>
+</map>

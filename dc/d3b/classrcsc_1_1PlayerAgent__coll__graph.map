@@ -1,0 +1,8 @@
+<map id="rcsc::PlayerAgent" name="rcsc::PlayerAgent">
+<area shape="rect" id="node1" title="basic player agent class" alt="" coords="361,104,496,131"/>
+<area shape="rect" id="node2" href="$d2/d07/classrcsc_1_1SoccerAgent.html" title="abstract soccer agent class" alt="" coords="10,5,147,32"/>
+<area shape="rect" id="node3" href="$da/de7/classrcsc_1_1PlayerConfig.html" title="player configuration variable set" alt="" coords="9,56,148,83"/>
+<area shape="rect" id="node4" href="$d5/d0f/classrcsc_1_1DebugClient.html" title="Debug Server Interface class." alt="" coords="11,107,147,133"/>
+<area shape="rect" id="node5" href="$d5/d2c/classrcsc_1_1WorldModel.html" title="player&#39;s internal field status" alt="" coords="12,164,145,191"/>
+<area shape="rect" id="node6" href="$d1/dcb/classrcsc_1_1ActionEffector.html" title="manages action effect, command counter" alt="" coords="5,215,152,241"/>
+</map>

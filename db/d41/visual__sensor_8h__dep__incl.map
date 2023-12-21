@@ -1,0 +1,12 @@
+<map id="/home/kali/rc/tools/include/rcsc/player/visual_sensor.h" name="/home/kali/rc/tools/include/rcsc/player/visual_sensor.h">
+<area shape="rect" id="node1" title="player&#39;s visual sensor Header File" alt="" coords="136,5,284,61"/>
+<area shape="rect" id="node2" href="$dc/d7f/localization_8h.html" title="localization module Header File" alt="" coords="136,109,284,165"/>
+<area shape="rect" id="node3" href="$d1/df8/abstract__player__object_8h.html" title="abstract player object class Header File" alt="" coords="117,213,303,269"/>
+<area shape="rect" id="node5" href="$d6/dc9/player__object_8h.html" title="player object class Header File" alt="" coords="5,317,153,373"/>
+<area shape="rect" id="node10" href="$df/daa/localization__default_8h.html" title="default localization module Header File" alt="" coords="328,213,495,269"/>
+<area shape="rect" id="node4" href="$d6/df7/player__evaluator_8h.html" title="player evaluator classes" alt="" coords="401,525,549,581"/>
+<area shape="rect" id="node8" href="$d1/d4e/player__predicate_8h.html" title="player predicate classes Header File" alt="" coords="57,525,205,581"/>
+<area shape="rect" id="node9" href="$d4/dcc/self__object_8h.html" title="self object class Header File" alt="" coords="229,317,377,373"/>
+<area shape="rect" id="node6" href="$dc/d17/world__model_8h.html" title="world model Header File" alt="" coords="229,421,377,477"/>
+<area shape="rect" id="node7" href="$de/d23/player__agent_8h.html" title="basic player agent Header File" alt="" coords="229,525,377,581"/>
+</map>

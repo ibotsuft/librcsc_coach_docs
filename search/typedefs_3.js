@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['index_0',['Index',['../da/d42/classrcss_1_1AutoReger.html#a2231618421dbd2e86715afbdc140ed6c',1,'rcss::AutoReger::Index()'],['../d4/d8f/classrcss_1_1Factory.html#ac94f6a6534bd7e7612efe8beab8eb401',1,'rcss::Factory::Index()']]]
+  ['datacont_0',['DataCont',['../d5/dd3/classrcsc_1_1FormationData.html#a4923815525c67f6be6558d17d5787061',1,'rcsc::FormationData']]]
 ];

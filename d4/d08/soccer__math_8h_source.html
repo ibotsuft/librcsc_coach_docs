@@ -98,7 +98,7 @@ $(function() {
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span><span class="preprocessor">#ifndef RCSC_SOCCERMATH_H</span></div>
 <div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span><span class="preprocessor">#define RCSC_SOCCERMATH_H</span></div>
 <div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span> </div>
-<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span><span class="preprocessor">#include &lt;rcsc/geom/vector_2d.h&gt;</span></div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span><span class="preprocessor">#include &lt;<a class="code" href="../../d1/d2b/vector__2d_8h.html">rcsc/geom/vector_2d.h</a>&gt;</span></div>
 <div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span> </div>
 <div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span><span class="keyword">namespace </span>rcsc {</div>
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span> </div>
@@ -192,19 +192,19 @@ $(function() {
 <div class="line"><a id="l00179" name="l00179"></a><span class="lineno">  179</span><span class="comment">/*-------------------------------------------------------------------*/</span></div>
 <div class="line"><a id="l00188" name="l00188"></a><span class="lineno">  188</span><span class="keyword">inline</span></div>
 <div class="line"><a id="l00189" name="l00189"></a><span class="lineno">  189</span>Vector2D</div>
-<div class="line"><a id="l00190" name="l00190"></a><span class="lineno"><a class="line" href="../../d4/d08/soccer__math_8h.html#a9fed334b55f76c0990cb2a24945fcb6d">  190</a></span><a class="code hl_function" href="../../d4/d08/soccer__math_8h.html#a9fed334b55f76c0990cb2a24945fcb6d">inertia_n_step_travel</a>( <span class="keyword">const</span> Vector2D &amp; initial_vel,</div>
+<div class="line"><a id="l00190" name="l00190"></a><span class="lineno"><a class="line" href="../../d4/d08/soccer__math_8h.html#a9fed334b55f76c0990cb2a24945fcb6d">  190</a></span><a class="code hl_function" href="../../d4/d08/soccer__math_8h.html#a9fed334b55f76c0990cb2a24945fcb6d">inertia_n_step_travel</a>( <span class="keyword">const</span> <a class="code hl_class" href="../../d2/d05/classrcsc_1_1Vector2D.html">Vector2D</a> &amp; initial_vel,</div>
 <div class="line"><a id="l00191" name="l00191"></a><span class="lineno">  191</span>                       <span class="keyword">const</span> <span class="keywordtype">int</span> n_step,</div>
 <div class="line"><a id="l00192" name="l00192"></a><span class="lineno">  192</span>                       <span class="keyword">const</span> <span class="keywordtype">double</span> &amp; decay )</div>
 <div class="line"><a id="l00193" name="l00193"></a><span class="lineno">  193</span>{</div>
-<div class="line"><a id="l00194" name="l00194"></a><span class="lineno">  194</span>    <span class="keywordflow">return</span> Vector2D( initial_vel )</div>
+<div class="line"><a id="l00194" name="l00194"></a><span class="lineno">  194</span>    <span class="keywordflow">return</span> <a class="code hl_class" href="../../d2/d05/classrcsc_1_1Vector2D.html">Vector2D</a>( initial_vel )</div>
 <div class="line"><a id="l00195" name="l00195"></a><span class="lineno">  195</span>        *= ( ( 1.0 - std::pow( decay, n_step ) ) / ( 1.0 - decay ) );</div>
 <div class="line"><a id="l00196" name="l00196"></a><span class="lineno">  196</span>}</div>
 <div class="line"><a id="l00197" name="l00197"></a><span class="lineno">  197</span> </div>
 <div class="line"><a id="l00198" name="l00198"></a><span class="lineno">  198</span><span class="comment">/*-------------------------------------------------------------------*/</span></div>
 <div class="line"><a id="l00208" name="l00208"></a><span class="lineno">  208</span><span class="keyword">inline</span></div>
 <div class="line"><a id="l00209" name="l00209"></a><span class="lineno">  209</span>Vector2D</div>
-<div class="line"><a id="l00210" name="l00210"></a><span class="lineno"><a class="line" href="../../d4/d08/soccer__math_8h.html#a4556e28877928cccf4e4db002b05b849">  210</a></span><a class="code hl_function" href="../../d4/d08/soccer__math_8h.html#a4556e28877928cccf4e4db002b05b849">inertia_n_step_point</a>( <span class="keyword">const</span> Vector2D &amp; initial_pos,</div>
-<div class="line"><a id="l00211" name="l00211"></a><span class="lineno">  211</span>                      <span class="keyword">const</span> Vector2D &amp; initial_vel,</div>
+<div class="line"><a id="l00210" name="l00210"></a><span class="lineno"><a class="line" href="../../d4/d08/soccer__math_8h.html#a4556e28877928cccf4e4db002b05b849">  210</a></span><a class="code hl_function" href="../../d4/d08/soccer__math_8h.html#a4556e28877928cccf4e4db002b05b849">inertia_n_step_point</a>( <span class="keyword">const</span> <a class="code hl_class" href="../../d2/d05/classrcsc_1_1Vector2D.html">Vector2D</a> &amp; initial_pos,</div>
+<div class="line"><a id="l00211" name="l00211"></a><span class="lineno">  211</span>                      <span class="keyword">const</span> <a class="code hl_class" href="../../d2/d05/classrcsc_1_1Vector2D.html">Vector2D</a> &amp; initial_vel,</div>
 <div class="line"><a id="l00212" name="l00212"></a><span class="lineno">  212</span>                      <span class="keyword">const</span> <span class="keywordtype">int</span> n_step,</div>
 <div class="line"><a id="l00213" name="l00213"></a><span class="lineno">  213</span>                      <span class="keyword">const</span> <span class="keywordtype">double</span> &amp; decay )</div>
 <div class="line"><a id="l00214" name="l00214"></a><span class="lineno">  214</span>{</div>
@@ -224,7 +224,7 @@ $(function() {
 <div class="line"><a id="l00228" name="l00228"></a><span class="lineno">  228</span><span class="comment">      / (1.0 - decay) );</span></div>
 <div class="line"><a id="l00229" name="l00229"></a><span class="lineno">  229</span><span class="comment">      return initial_pos + ( initial_vel * rate );</span></div>
 <div class="line"><a id="l00230" name="l00230"></a><span class="lineno">  230</span><span class="comment">    */</span></div>
-<div class="line"><a id="l00231" name="l00231"></a><span class="lineno">  231</span>    <span class="keywordflow">return</span> Vector2D( initial_pos )</div>
+<div class="line"><a id="l00231" name="l00231"></a><span class="lineno">  231</span>    <span class="keywordflow">return</span> <a class="code hl_class" href="../../d2/d05/classrcsc_1_1Vector2D.html">Vector2D</a>( initial_pos )</div>
 <div class="line"><a id="l00232" name="l00232"></a><span class="lineno">  232</span>        += <a class="code hl_function" href="../../d4/d08/soccer__math_8h.html#a9fed334b55f76c0990cb2a24945fcb6d">inertia_n_step_travel</a>( initial_vel, n_step, decay );</div>
 <div class="line"><a id="l00233" name="l00233"></a><span class="lineno">  233</span>}</div>
 <div class="line"><a id="l00234" name="l00234"></a><span class="lineno">  234</span> </div>
@@ -256,17 +256,17 @@ $(function() {
 <div class="line"><a id="l00276" name="l00276"></a><span class="lineno">  276</span><span class="comment">/*-------------------------------------------------------------------*/</span></div>
 <div class="line"><a id="l00283" name="l00283"></a><span class="lineno">  283</span><span class="keyword">inline</span></div>
 <div class="line"><a id="l00284" name="l00284"></a><span class="lineno">  284</span>Vector2D</div>
-<div class="line"><a id="l00285" name="l00285"></a><span class="lineno"><a class="line" href="../../d4/d08/soccer__math_8h.html#a92d39ec3974c8aa428ab392d1ae21fbd">  285</a></span><a class="code hl_function" href="../../d4/d08/soccer__math_8h.html#a92d39ec3974c8aa428ab392d1ae21fbd">inertia_final_travel</a>( <span class="keyword">const</span> Vector2D &amp; initial_vel,</div>
+<div class="line"><a id="l00285" name="l00285"></a><span class="lineno"><a class="line" href="../../d4/d08/soccer__math_8h.html#a92d39ec3974c8aa428ab392d1ae21fbd">  285</a></span><a class="code hl_function" href="../../d4/d08/soccer__math_8h.html#a92d39ec3974c8aa428ab392d1ae21fbd">inertia_final_travel</a>( <span class="keyword">const</span> <a class="code hl_class" href="../../d2/d05/classrcsc_1_1Vector2D.html">Vector2D</a> &amp; initial_vel,</div>
 <div class="line"><a id="l00286" name="l00286"></a><span class="lineno">  286</span>                      <span class="keyword">const</span> <span class="keywordtype">double</span> &amp; decay )</div>
 <div class="line"><a id="l00287" name="l00287"></a><span class="lineno">  287</span>{</div>
-<div class="line"><a id="l00288" name="l00288"></a><span class="lineno">  288</span>    <span class="keywordflow">return</span> Vector2D( initial_vel ) /= ( 1.0 - decay );</div>
+<div class="line"><a id="l00288" name="l00288"></a><span class="lineno">  288</span>    <span class="keywordflow">return</span> <a class="code hl_class" href="../../d2/d05/classrcsc_1_1Vector2D.html">Vector2D</a>( initial_vel ) /= ( 1.0 - decay );</div>
 <div class="line"><a id="l00289" name="l00289"></a><span class="lineno">  289</span>}</div>
 <div class="line"><a id="l00290" name="l00290"></a><span class="lineno">  290</span> </div>
 <div class="line"><a id="l00291" name="l00291"></a><span class="lineno">  291</span><span class="comment">/*-------------------------------------------------------------------*/</span></div>
 <div class="line"><a id="l00299" name="l00299"></a><span class="lineno">  299</span><span class="keyword">inline</span></div>
 <div class="line"><a id="l00300" name="l00300"></a><span class="lineno">  300</span>Vector2D</div>
-<div class="line"><a id="l00301" name="l00301"></a><span class="lineno"><a class="line" href="../../d4/d08/soccer__math_8h.html#ae2b55f0f03e7450486093425eca13ed1">  301</a></span><a class="code hl_function" href="../../d4/d08/soccer__math_8h.html#ae2b55f0f03e7450486093425eca13ed1">inertia_final_point</a>( <span class="keyword">const</span> Vector2D &amp; initial_pos,</div>
-<div class="line"><a id="l00302" name="l00302"></a><span class="lineno">  302</span>                     <span class="keyword">const</span> Vector2D &amp; initial_vel,</div>
+<div class="line"><a id="l00301" name="l00301"></a><span class="lineno"><a class="line" href="../../d4/d08/soccer__math_8h.html#ae2b55f0f03e7450486093425eca13ed1">  301</a></span><a class="code hl_function" href="../../d4/d08/soccer__math_8h.html#ae2b55f0f03e7450486093425eca13ed1">inertia_final_point</a>( <span class="keyword">const</span> <a class="code hl_class" href="../../d2/d05/classrcsc_1_1Vector2D.html">Vector2D</a> &amp; initial_pos,</div>
+<div class="line"><a id="l00302" name="l00302"></a><span class="lineno">  302</span>                     <span class="keyword">const</span> <a class="code hl_class" href="../../d2/d05/classrcsc_1_1Vector2D.html">Vector2D</a> &amp; initial_vel,</div>
 <div class="line"><a id="l00303" name="l00303"></a><span class="lineno">  303</span>                     <span class="keyword">const</span> <span class="keywordtype">double</span> &amp; decay )</div>
 <div class="line"><a id="l00304" name="l00304"></a><span class="lineno">  304</span>{</div>
 <div class="line"><a id="l00305" name="l00305"></a><span class="lineno">  305</span>    <span class="comment">/*</span></div>
@@ -280,7 +280,7 @@ $(function() {
 <div class="line"><a id="l00313" name="l00313"></a><span class="lineno">  313</span>    <span class="comment">/*</span></div>
 <div class="line"><a id="l00314" name="l00314"></a><span class="lineno">  314</span><span class="comment">      return initial_pos + ( initial_vel / (1.0 - decay) );</span></div>
 <div class="line"><a id="l00315" name="l00315"></a><span class="lineno">  315</span><span class="comment">    */</span></div>
-<div class="line"><a id="l00316" name="l00316"></a><span class="lineno">  316</span>    <span class="keywordflow">return</span> Vector2D( initial_pos )</div>
+<div class="line"><a id="l00316" name="l00316"></a><span class="lineno">  316</span>    <span class="keywordflow">return</span> <a class="code hl_class" href="../../d2/d05/classrcsc_1_1Vector2D.html">Vector2D</a>( initial_pos )</div>
 <div class="line"><a id="l00317" name="l00317"></a><span class="lineno">  317</span>        += <a class="code hl_function" href="../../d4/d08/soccer__math_8h.html#a92d39ec3974c8aa428ab392d1ae21fbd">inertia_final_travel</a>( initial_vel, decay );</div>
 <div class="line"><a id="l00318" name="l00318"></a><span class="lineno">  318</span>}</div>
 <div class="line"><a id="l00319" name="l00319"></a><span class="lineno">  319</span> </div>
@@ -341,7 +341,7 @@ $(function() {
 <div class="line"><a id="l00430" name="l00430"></a><span class="lineno">  430</span>             <span class="keyword">const</span> <span class="keywordtype">double</span> &amp; wind_dir,</div>
 <div class="line"><a id="l00431" name="l00431"></a><span class="lineno">  431</span>             <span class="keyword">const</span> <span class="keywordtype">double</span> &amp; wind_weight,</div>
 <div class="line"><a id="l00432" name="l00432"></a><span class="lineno">  432</span>             <span class="keyword">const</span> <span class="keywordtype">double</span> &amp; wind_rand,</div>
-<div class="line"><a id="l00433" name="l00433"></a><span class="lineno">  433</span>             Vector2D * wind_error );</div>
+<div class="line"><a id="l00433" name="l00433"></a><span class="lineno">  433</span>             <a class="code hl_class" href="../../d2/d05/classrcsc_1_1Vector2D.html">Vector2D</a> * wind_error );</div>
 <div class="line"><a id="l00434" name="l00434"></a><span class="lineno">  434</span> </div>
 <div class="line"><a id="l00435" name="l00435"></a><span class="lineno">  435</span><span class="comment">/*-------------------------------------------------------------------*/</span></div>
 <div class="line"><a id="l00442" name="l00442"></a><span class="lineno">  442</span><span class="keywordtype">double</span></div>
@@ -351,6 +351,7 @@ $(function() {
 <div class="line"><a id="l00446" name="l00446"></a><span class="lineno">  446</span>} <span class="comment">// end namespace</span></div>
 <div class="line"><a id="l00447" name="l00447"></a><span class="lineno">  447</span> </div>
 <div class="line"><a id="l00448" name="l00448"></a><span class="lineno">  448</span><span class="preprocessor">#endif</span></div>
+<div class="ttc" id="aclassrcsc_1_1Vector2D_html"><div class="ttname"><a href="../../d2/d05/classrcsc_1_1Vector2D.html">rcsc::Vector2D</a></div><div class="ttdoc">2D point vector class</div><div class="ttdef"><b>Definition:</b> vector_2d.h:46</div></div>
 <div class="ttc" id="asoccer__math_8h_html_a2190f6a25f902e9a66f8f43ec2a7bafe"><div class="ttname"><a href="../../d4/d08/soccer__math_8h.html#a2190f6a25f902e9a66f8f43ec2a7bafe">rcsc::unquantize_min</a></div><div class="ttdeci">double unquantize_min(const double &amp;dist, const double &amp;qstep)</div><div class="ttdoc">calculate minnimal value by inverse quantize function</div><div class="ttdef"><b>Definition:</b> soccer_math.h:393</div></div>
 <div class="ttc" id="asoccer__math_8h_html_a2625c6b3627ed8db54b9697c520d5eb3"><div class="ttname"><a href="../../d4/d08/soccer__math_8h.html#a2625c6b3627ed8db54b9697c520d5eb3">rcsc::SERVER_EPS</a></div><div class="ttdeci">constexpr double SERVER_EPS</div><div class="ttdoc">epsilon value</div><div class="ttdef"><b>Definition:</b> soccer_math.h:40</div></div>
 <div class="ttc" id="asoccer__math_8h_html_a2c12f61a42a84b20df50275b97c20667"><div class="ttname"><a href="../../d4/d08/soccer__math_8h.html#a2c12f61a42a84b20df50275b97c20667">rcsc::unquantize_max</a></div><div class="ttdeci">double unquantize_max(const double &amp;dist, const double &amp;qstep)</div><div class="ttdoc">calculate maximal value by inverse quantize function</div><div class="ttdef"><b>Definition:</b> soccer_math.h:408</div></div>
@@ -369,6 +370,7 @@ $(function() {
 <div class="ttc" id="asoccer__math_8h_html_ac53d8439c4f0aa77c5af91fef1213ec9"><div class="ttname"><a href="../../d4/d08/soccer__math_8h.html#ac53d8439c4f0aa77c5af91fef1213ec9">rcsc::dir_rate</a></div><div class="ttdeci">double dir_rate(const double &amp;dir, const double &amp;back_dash_rate, const double &amp;side_dash_rate)</div><div class="ttdoc">calculate effective dash power rate according to the input dash direction</div><div class="ttdef"><b>Definition:</b> soccer_math.h:85</div></div>
 <div class="ttc" id="asoccer__math_8h_html_adf4df7936f072e69f1ee16ba0962545a"><div class="ttname"><a href="../../d4/d08/soccer__math_8h.html#adf4df7936f072e69f1ee16ba0962545a">rcsc::can_over_speed_max</a></div><div class="ttdeci">bool can_over_speed_max(const double &amp;dash_power, const double &amp;dprate, const double &amp;effort, const double &amp;decay, const double &amp;speed_max)</div><div class="ttdoc">check if player's poteantial max speed is over plsyer_speed_max parameter.</div><div class="ttdef"><b>Definition:</b> soccer_math.h:165</div></div>
 <div class="ttc" id="asoccer__math_8h_html_ae2b55f0f03e7450486093425eca13ed1"><div class="ttname"><a href="../../d4/d08/soccer__math_8h.html#ae2b55f0f03e7450486093425eca13ed1">rcsc::inertia_final_point</a></div><div class="ttdeci">Vector2D inertia_final_point(const Vector2D &amp;initial_pos, const Vector2D &amp;initial_vel, const double &amp;decay)</div><div class="ttdoc">calculate final reach point only by inertia.</div><div class="ttdef"><b>Definition:</b> soccer_math.h:301</div></div>
+<div class="ttc" id="avector__2d_8h_html"><div class="ttname"><a href="../../d1/d2b/vector__2d_8h.html">vector_2d.h</a></div><div class="ttdoc">2d vector class Header File.</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

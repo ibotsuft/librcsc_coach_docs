@@ -1,0 +1,4 @@
+<map id="rcsc::PlayerAgent" name="rcsc::PlayerAgent">
+<area shape="rect" id="node1" title="basic player agent class" alt="" coords="7,80,141,107"/>
+<area shape="rect" id="node2" href="$d2/d07/classrcsc_1_1SoccerAgent.html" title="abstract soccer agent class" alt="" coords="5,5,143,32"/>
+</map>

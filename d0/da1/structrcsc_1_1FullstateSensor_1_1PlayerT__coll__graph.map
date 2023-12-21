@@ -1,0 +1,4 @@
+<map id="rcsc::FullstateSensor::PlayerT" name="rcsc::FullstateSensor::PlayerT">
+<area shape="rect" id="node1" title="fullstate player info" alt="" coords="5,109,161,151"/>
+<area shape="rect" id="node2" href="$d2/d05/classrcsc_1_1Vector2D.html" title="2D point vector class" alt="" coords="26,5,141,32"/>
+</map>

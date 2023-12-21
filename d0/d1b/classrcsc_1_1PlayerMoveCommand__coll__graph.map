@@ -1,0 +1,5 @@
+<map id="rcsc::PlayerMoveCommand" name="rcsc::PlayerMoveCommand">
+<area shape="rect" id="node1" title="player&#39;s move command" alt="" coords="5,155,205,181"/>
+<area shape="rect" id="node2" href="$dc/d3c/classrcsc_1_1PlayerBodyCommand.html" title="abstract body command" alt="" coords="7,80,204,107"/>
+<area shape="rect" id="node3" href="$df/df1/classrcsc_1_1PlayerCommand.html" title="abstract player command class" alt="" coords="23,5,187,32"/>
+</map>

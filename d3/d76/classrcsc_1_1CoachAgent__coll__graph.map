@@ -1,0 +1,7 @@
+<map id="rcsc::CoachAgent" name="rcsc::CoachAgent">
+<area shape="rect" id="node1" title="abstract coach agent class" alt="" coords="259,95,393,121"/>
+<area shape="rect" id="node2" href="$d2/d07/classrcsc_1_1SoccerAgent.html" title="abstract soccer agent class" alt="" coords="5,5,143,32"/>
+<area shape="rect" id="node3" href="$d4/d47/classrcsc_1_1CoachConfig.html" title="coach configuration parameters" alt="" coords="167,5,304,32"/>
+<area shape="rect" id="node4" href="$d9/d21/classrcsc_1_1CoachDebugClient.html" title=" " alt="" coords="329,5,505,32"/>
+<area shape="rect" id="node5" href="$d9/ddc/classrcsc_1_1CoachWorldModel.html" title="world world for coach" alt="" coords="529,5,702,32"/>
+</map>

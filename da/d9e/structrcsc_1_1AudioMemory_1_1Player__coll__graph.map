@@ -1,0 +1,4 @@
+<map id="rcsc::AudioMemory::Player" name="rcsc::AudioMemory::Player">
+<area shape="rect" id="node1" title="player info" alt="" coords="5,95,160,136"/>
+<area shape="rect" id="node2" href="$d2/d05/classrcsc_1_1Vector2D.html" title="2D point vector class" alt="" coords="25,5,140,32"/>
+</map>

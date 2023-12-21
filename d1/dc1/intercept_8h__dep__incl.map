@@ -1,0 +1,10 @@
+<map id="/home/kali/rc/tools/include/rcsc/player/intercept.h" name="/home/kali/rc/tools/include/rcsc/player/intercept.h">
+<area shape="rect" id="node1" title="intercept action type Header File" alt="" coords="180,5,328,61"/>
+<area shape="rect" id="node2" href="$d8/d79/intercept__table_8h.html" title="interception info holder Header File" alt="" coords="180,109,328,165"/>
+<area shape="rect" id="node3" href="$da/d6d/intercept__simulator__self_8h.html" title="base class of the self intercept simulator" alt="" coords="48,213,201,284"/>
+<area shape="rect" id="node5" href="$dc/d17/world__model_8h.html" title="world model Header File" alt="" coords="311,221,459,277"/>
+<area shape="rect" id="node4" href="$dd/d58/intercept__simulator__self__v17_8h.html" title="intercept simulator for self" alt="" coords="5,332,159,403"/>
+<area shape="rect" id="node6" href="$de/d23/player__agent_8h.html" title="basic player agent Header File" alt="" coords="183,339,331,395"/>
+<area shape="rect" id="node7" href="$d6/df7/player__evaluator_8h.html" title="player evaluator classes" alt="" coords="355,339,503,395"/>
+<area shape="rect" id="node8" href="$d1/d4e/player__predicate_8h.html" title="player predicate classes Header File" alt="" coords="527,339,675,395"/>
+</map>

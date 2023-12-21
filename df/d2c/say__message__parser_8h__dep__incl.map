@@ -1,0 +1,10 @@
+<map id="/home/kali/rc/tools/include/rcsc/common/say_message_parser.h" name="/home/kali/rc/tools/include/rcsc/common/say_message_parser.h">
+<area shape="rect" id="node1" title="player&#39;s say message parser Header File" alt="" coords="293,5,467,61"/>
+<area shape="rect" id="node2" href="$da/d32/coach__audio__sensor_8h.html" title="audio message analyzer for coach Header File" alt="" coords="5,109,173,165"/>
+<area shape="rect" id="node3" href="$d2/dba/free__message__parser_8h.html" title="player&#39;s freeform say message parser Header File" alt="" coords="198,109,375,165"/>
+<area shape="rect" id="node4" href="$df/d9f/audio__sensor_8h.html" title="audio message analyzer Header File" alt="" coords="399,109,547,165"/>
+<area shape="rect" id="node5" href="$d7/d1a/say__message__builder_8h.html" title="player&#39;s say message builder Header File" alt="" coords="572,109,751,165"/>
+<area shape="rect" id="node6" href="$db/d27/action__effector_8h.html" title="player&#39;s action effecto manager Header File" alt="" coords="501,213,649,269"/>
+<area shape="rect" id="node8" href="$d1/d8d/free__message_8h.html" title="player&#39;s freeform say message builder Header File" alt="" coords="673,213,821,269"/>
+<area shape="rect" id="node7" href="$de/d23/player__agent_8h.html" title="basic player agent Header File" alt="" coords="501,317,649,373"/>
+</map>

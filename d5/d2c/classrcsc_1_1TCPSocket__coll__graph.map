@@ -1,0 +1,5 @@
+<map id="rcsc::TCPSocket" name="rcsc::TCPSocket">
+<area shape="rect" id="node1" title="TCP/IP connection socket class." alt="" coords="21,185,143,212"/>
+<area shape="rect" id="node2" href="$d0/da0/classrcsc_1_1AbstractSocket.html" title="socket class" alt="" coords="5,109,159,136"/>
+<area shape="rect" id="node3" href="$dd/de4/classrcsc_1_1HostAddress.html" title=" " alt="" coords="13,5,151,32"/>
+</map>

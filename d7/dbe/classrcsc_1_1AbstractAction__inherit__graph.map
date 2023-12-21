@@ -1,0 +1,9 @@
+<map id="rcsc::AbstractAction" name="rcsc::AbstractAction">
+<area shape="rect" id="node1" title="base class of actions" alt="" coords="5,132,156,159"/>
+<area shape="rect" id="node2" href="$d4/d1b/classrcsc_1_1ArmAction.html" title="abstract pointto action" alt="" coords="221,5,345,32"/>
+<area shape="rect" id="node3" href="$da/db8/classrcsc_1_1BodyAction.html" title="abstract body action" alt="" coords="217,56,348,83"/>
+<area shape="rect" id="node4" href="$d8/d9e/classrcsc_1_1FocusAction.html" title="abstract change_focus action" alt="" coords="215,107,350,133"/>
+<area shape="rect" id="node5" href="$da/daf/classrcsc_1_1NeckAction.html" title="abstract turn neck action" alt="" coords="217,157,348,184"/>
+<area shape="rect" id="node6" href="$d5/d75/classrcsc_1_1SoccerBehavior.html" title="abstract player behavior." alt="" coords="204,208,361,235"/>
+<area shape="rect" id="node7" href="$d8/dd6/classrcsc_1_1ViewAction.html" title="abstract change view action" alt="" coords="218,259,347,285"/>
+</map>

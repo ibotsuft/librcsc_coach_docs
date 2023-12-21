@@ -1,0 +1,27 @@
+<map id="rcsc::PlayerPredicate" name="rcsc::PlayerPredicate">
+<area shape="rect" id="node1" title="abstract predicate class for player matching" alt="" coords="5,665,164,691"/>
+<area shape="rect" id="node2" href="$dc/de6/classrcsc_1_1AbsAngleDiffGreaterPlayerPredicate.html" title="check if target player&#39;s absolute angle difference from base angle is greater than threshold angle" alt="" coords="244,5,433,47"/>
+<area shape="rect" id="node3" href="$d3/dd7/classrcsc_1_1AbsAngleDiffLessPlayerPredicate.html" title="check if target player&#39;s absolute angle difference from base angle is less than threshold angle" alt="" coords="233,71,444,112"/>
+<area shape="rect" id="node4" href="$d5/d49/classrcsc_1_1AndPlayerPredicate.html" title="composite logical &quot;and&quot; predicate" alt="" coords="247,137,430,163"/>
+<area shape="rect" id="node5" href="$da/d32/classrcsc_1_1ContainsPlayerPredicate.html" title="check if target player is in region" alt="" coords="212,187,465,214"/>
+<area shape="rect" id="node6" href="$da/df5/classrcsc_1_1CoordinateAccuratePlayerPredicate.html" title="check if target player&#39;s positional information has enough accuracy." alt="" coords="247,239,431,280"/>
+<area shape="rect" id="node7" href="$d8/d9e/classrcsc_1_1ExistNearPlayerPlayerPredicate.html" title="check if a player exists within the specified distance from the filtered player." alt="" coords="238,304,439,345"/>
+<area shape="rect" id="node8" href="$df/d85/classrcsc_1_1FieldPlayerPredicate.html" title="check if target player is field player or not" alt="" coords="244,370,433,397"/>
+<area shape="rect" id="node9" href="$de/d45/classrcsc_1_1GhostPlayerPredicate.html" title="check if target player is ghost object or not" alt="" coords="241,421,437,447"/>
+<area shape="rect" id="node10" href="$d5/d5d/classrcsc_1_1GoaliePlayerPredicate.html" title="check if target player is goalie or not" alt="" coords="239,471,439,498"/>
+<area shape="rect" id="node11" href="$db/dc0/classrcsc_1_1NoGhostPlayerPredicate.html" title="check if target player is not ghost and has enough accuracy." alt="" coords="231,522,446,549"/>
+<area shape="rect" id="node12" href="$df/d1b/classrcsc_1_1NotPlayerPredicate.html" title="logical &quot;not&quot; predicate" alt="" coords="248,573,429,599"/>
+<area shape="rect" id="node13" href="$d8/dee/classrcsc_1_1OffsidePositionPlayerPredicate.html" title="check if target player is in offside area" alt="" coords="241,624,436,665"/>
+<area shape="rect" id="node14" href="$db/d42/classrcsc_1_1OpponentOrUnknownPlayerPredicate.html" title="check if target player is opponent (include unknown player) or not" alt="" coords="221,689,457,731"/>
+<area shape="rect" id="node15" href="$d4/d5b/classrcsc_1_1OpponentPlayerPredicate.html" title="check if target player is opponent (not include unknown player) or not" alt="" coords="228,755,449,782"/>
+<area shape="rect" id="node16" href="$dc/d13/classrcsc_1_1OrPlayerPredicate.html" title="composite logical &quot;or&quot; predicate" alt="" coords="252,806,425,833"/>
+<area shape="rect" id="node17" href="$df/df0/classrcsc_1_1PointFarPlayerPredicate.html" title="check if target player&#39;s distance from tha base point is greater than threshold distance" alt="" coords="233,857,444,883"/>
+<area shape="rect" id="node18" href="$d0/dd2/classrcsc_1_1PointNearPlayerPredicate.html" title="check if target player&#39;s distance from tha base point is less than threshold distance" alt="" coords="227,907,450,934"/>
+<area shape="rect" id="node19" href="$d3/d85/classrcsc_1_1SelfPlayerPredicate.html" title="check if target player is self or not" alt="" coords="247,958,430,985"/>
+<area shape="rect" id="node20" href="$d9/d07/classrcsc_1_1TeammateOrSelfPlayerPredicate.html" title="check if target player is teammate (include self) or not" alt="" coords="235,1009,442,1051"/>
+<area shape="rect" id="node21" href="$de/d6d/classrcsc_1_1TeammatePlayerPredicate.html" title="check if target player is teammate (not include self) or not" alt="" coords="225,1075,452,1102"/>
+<area shape="rect" id="node22" href="$d3/d67/classrcsc_1_1XCoordinateBackwardPlayerPredicate.html" title="check if target player&#39;s x coordinate is less(backwarder) than threshold value" alt="" coords="239,1127,438,1168"/>
+<area shape="rect" id="node23" href="$d6/dff/classrcsc_1_1XCoordinateForwardPlayerPredicate.html" title="check if target player&#39;s x coordinate is greater(forwarder) than threshold value" alt="" coords="245,1192,432,1233"/>
+<area shape="rect" id="node24" href="$d1/dc6/classrcsc_1_1YCoordinateMinusPlayerPredicate.html" title="check if target player&#39;s y coordinate is more left than threshold value" alt="" coords="231,1257,446,1299"/>
+<area shape="rect" id="node25" href="$de/d74/classrcsc_1_1YCoordinatePlusPlayerPredicate.html" title="check if target player&#39;s y coordinate is more right than threshold value" alt="" coords="237,1323,440,1364"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="rcsc::SetplayMessageParser" name="rcsc::SetplayMessageParser">
+<area shape="rect" id="node1" title="setplay information message parser" alt="" coords="5,80,208,107"/>
+<area shape="rect" id="node2" href="$df/ddc/classrcsc_1_1SayMessageParser.html" title="abstract player&#39;s say message parser" alt="" coords="17,5,196,32"/>
+</map>

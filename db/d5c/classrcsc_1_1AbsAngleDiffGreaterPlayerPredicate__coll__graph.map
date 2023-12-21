@@ -1,0 +1,4 @@
+<map id="rcsc::AbsAngleDiffGreaterPlayerPredicate" name="rcsc::AbsAngleDiffGreaterPlayerPredicate">
+<area shape="rect" id="node1" title="check if target player&#39;s absolute angle difference from base angle is greater than threshold angle" alt="" coords="5,80,195,121"/>
+<area shape="rect" id="node2" href="$d1/d56/classrcsc_1_1PlayerPredicate.html" title="abstract predicate class for player matching" alt="" coords="21,5,179,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="rcsc::SelfMessage" name="rcsc::SelfMessage">
+<area shape="rect" id="node1" title="self info message encoder" alt="" coords="5,80,144,107"/>
+<area shape="rect" id="node2" href="$d6/dd6/classrcsc_1_1SayMessage.html" title="abstract player&#39;s say message" alt="" coords="5,5,144,32"/>
+</map>

@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$dd/d83/structrcsc_1_1GameTime_1_1Less.html" title="compare function" alt="" coords="5,5,171,32"/>
+<area shape="rect" id="node1" href="$d0/da0/classrcsc_1_1AbstractSocket.html" title="socket class" alt="" coords="5,31,159,57"/>
+<area shape="rect" id="node2" href="$dd/d01/classrcsc_1_1TCPSocket.html" title="TCP/IP connection socket class." alt="" coords="209,5,331,32"/>
+<area shape="rect" id="node3" href="$da/d71/classrcsc_1_1UDPSocket.html" title="UDP/IP connection socket class." alt="" coords="207,56,333,83"/>
 </map>

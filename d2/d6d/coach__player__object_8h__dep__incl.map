@@ -1,0 +1,8 @@
+<map id="/home/kali/rc/tools/include/rcsc/coach/coach_player_object.h" name="/home/kali/rc/tools/include/rcsc/coach/coach_player_object.h">
+<area shape="rect" id="node1" title="player object class for coach/trainer Header file." alt="" coords="128,5,299,61"/>
+<area shape="rect" id="node2" href="$d0/d0f/coach__visual__sensor_8h.html" title="coach/trainer visual sensor data holder class Header File" alt="" coords="5,109,176,165"/>
+<area shape="rect" id="node3" href="$dd/dcb/coach__world__model_8h.html" title="coach/trainer world model class Header File" alt="" coords="189,213,355,269"/>
+<area shape="rect" id="node6" href="$d6/da1/coach__world__state_8h.html" title="coach/trainer world state class Header File" alt="" coords="251,109,410,165"/>
+<area shape="rect" id="node4" href="$dc/dd1/coach__agent_8h.html" title="basic coach agent Header File" alt="" coords="114,317,259,373"/>
+<area shape="rect" id="node5" href="$dd/d78/trainer__agent_8h.html" title="basic trainer agent Header File" alt="" coords="283,317,434,373"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rcsc::rcg::ShowInfoT" name="rcsc::rcg::ShowInfoT">
+<area shape="rect" id="node1" title="show information" alt="" coords="63,95,215,121"/>
+<area shape="rect" id="node2" href="$d7/d94/structrcsc_1_1rcg_1_1BallT.html" title="generic ball data for display information" alt="" coords="5,5,123,32"/>
+<area shape="rect" id="node3" href="$d9/d3f/structrcsc_1_1rcg_1_1PlayerT.html" title="generic player data for display information" alt="" coords="147,5,280,32"/>
+</map>

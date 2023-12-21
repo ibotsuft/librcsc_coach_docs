@@ -1,0 +1,4 @@
+<map id="rcsc::GoaliePlayerPredicate" name="rcsc::GoaliePlayerPredicate">
+<area shape="rect" id="node1" title="check if target player is goalie or not" alt="" coords="5,80,205,107"/>
+<area shape="rect" id="node2" href="$d1/d56/classrcsc_1_1PlayerPredicate.html" title="abstract predicate class for player matching" alt="" coords="26,5,185,32"/>
+</map>

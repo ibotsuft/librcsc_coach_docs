@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['ballstatus_0',['BallStatus',['../d9/d49/types_8h.html#ad1c70738c6188d30f3ef0010055c5762',1,'rcsc']]]
+  ['actiontype_0',['ActionType',['../d7/d2d/classrcsc_1_1Intercept.html#a1bdee27efbb53bddf95b10b9dc4d8b36',1,'rcsc::Intercept']]]
 ];

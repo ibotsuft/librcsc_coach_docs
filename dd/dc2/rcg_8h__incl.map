@@ -1,8 +1,21 @@
 <map id="/home/kali/rc/tools/include/rcsc/rcg.h" name="/home/kali/rc/tools/include/rcsc/rcg.h">
-<area shape="rect" id="node1" title="RCG library Header File." alt="" coords="284,5,427,47"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,95,129,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="154,95,263,121"/>
-<area shape="rect" id="node4" title=" " alt="" coords="287,95,423,121"/>
-<area shape="rect" id="node5" title=" " alt="" coords="447,95,575,121"/>
-<area shape="rect" id="node6" title=" " alt="" coords="599,95,746,121"/>
+<area shape="rect" id="node1" title="RCG library Header File." alt="" coords="186,5,329,47"/>
+<area shape="rect" id="node2" href="$d6/db0/rcg_2types_8h.html" title="rcg data format types." alt="" coords="90,169,214,196"/>
+<area shape="rect" id="node7" href="$d8/d3c/util_8h.html" title="utilities for rcg data Header File." alt="" coords="5,95,115,121"/>
+<area shape="rect" id="node8" href="$dd/dee/handler_8h.html" title="rcg data handler Header File." alt="" coords="189,95,325,121"/>
+<area shape="rect" id="node9" href="$d5/d36/parser_8h.html" title="abstract rcg parser class Header File." alt="" coords="552,95,680,121"/>
+<area shape="rect" id="node18" href="$dd/d5f/serializer_8h.html" title="rcg serializer class Header File." alt="" coords="349,95,496,121"/>
+<area shape="rect" id="node3" href="$d9/d49/types_8h.html" title="the type definition set for the RCSSServer2D" alt="" coords="317,244,417,271"/>
+<area shape="rect" id="node4" title=" " alt="" coords="223,244,281,271"/>
+<area shape="rect" id="node5" title=" " alt="" coords="38,244,101,271"/>
+<area shape="rect" id="node6" title=" " alt="" coords="125,244,192,271"/>
+<area shape="rect" id="node10" href="$de/d06/factory_8h_source.html" title=" " alt="" coords="594,169,702,196"/>
+<area shape="rect" id="node15" title=" " alt="" coords="459,244,536,271"/>
+<area shape="rect" id="node17" title=" " alt="" coords="727,169,799,196"/>
+<area shape="rect" id="node11" title=" " alt="" coords="560,244,611,271"/>
+<area shape="rect" id="node12" title=" " alt="" coords="635,244,677,271"/>
+<area shape="rect" id="node13" title=" " alt="" coords="702,244,759,271"/>
+<area shape="rect" id="node14" title=" " alt="" coords="784,244,864,271"/>
+<area shape="rect" id="node16" title=" " alt="" coords="888,244,955,271"/>
+<area shape="rect" id="node19" title=" " alt="" coords="341,169,417,196"/>
 </map>

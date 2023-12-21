@@ -1,0 +1,11 @@
+<map id="/home/kali/rc/tools/include/rcsc/game_mode.h" name="/home/kali/rc/tools/include/rcsc/game_mode.h">
+<area shape="rect" id="node1" title="playmode wrapper Header File" alt="" coords="181,5,381,47"/>
+<area shape="rect" id="node2" href="$dd/dcb/coach__world__model_8h.html" title="coach/trainer world model class Header File" alt="" coords="80,199,247,255"/>
+<area shape="rect" id="node5" href="$d6/da1/coach__world__state_8h.html" title="coach/trainer world state class Header File" alt="" coords="201,95,360,151"/>
+<area shape="rect" id="node6" href="$dc/d17/world__model_8h.html" title="world model Header File" alt="" coords="413,95,561,151"/>
+<area shape="rect" id="node3" href="$dc/dd1/coach__agent_8h.html" title="basic coach agent Header File" alt="" coords="5,303,151,359"/>
+<area shape="rect" id="node4" href="$dd/d78/trainer__agent_8h.html" title="basic trainer agent Header File" alt="" coords="175,303,325,359"/>
+<area shape="rect" id="node7" href="$de/d23/player__agent_8h.html" title="basic player agent Header File" alt="" coords="271,199,419,255"/>
+<area shape="rect" id="node8" href="$d6/df7/player__evaluator_8h.html" title="player evaluator classes" alt="" coords="443,199,591,255"/>
+<area shape="rect" id="node9" href="$d1/d4e/player__predicate_8h.html" title="player predicate classes Header File" alt="" coords="615,199,763,255"/>
+</map>

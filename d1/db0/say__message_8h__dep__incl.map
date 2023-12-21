@@ -1,0 +1,7 @@
+<map id="/home/kali/rc/tools/include/rcsc/common/say_message.h" name="/home/kali/rc/tools/include/rcsc/common/say_message.h">
+<area shape="rect" id="node1" title="abstract player&#39;s say message Header File" alt="" coords="83,5,247,61"/>
+<area shape="rect" id="node2" href="$d7/d1a/say__message__builder_8h.html" title="player&#39;s say message builder Header File" alt="" coords="75,109,254,165"/>
+<area shape="rect" id="node3" href="$db/d27/action__effector_8h.html" title="player&#39;s action effecto manager Header File" alt="" coords="5,213,153,269"/>
+<area shape="rect" id="node5" href="$d1/d8d/free__message_8h.html" title="player&#39;s freeform say message builder Header File" alt="" coords="177,213,325,269"/>
+<area shape="rect" id="node4" href="$de/d23/player__agent_8h.html" title="basic player agent Header File" alt="" coords="5,317,153,373"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="rcsc::ContainsPlayerPredicate&lt; T &gt;" name="rcsc::ContainsPlayerPredicate&lt; T &gt;">
+<area shape="rect" id="node1" title="check if target player is in region" alt="" coords="5,80,259,107"/>
+<area shape="rect" id="node2" href="$d1/d56/classrcsc_1_1PlayerPredicate.html" title="abstract predicate class for player matching" alt="" coords="53,5,211,32"/>
+</map>

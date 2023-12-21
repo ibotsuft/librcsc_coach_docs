@@ -1,0 +1,5 @@
+<map id="rcsc::AbstractSocket" name="rcsc::AbstractSocket">
+<area shape="rect" id="node1" title="socket class" alt="" coords="65,5,218,32"/>
+<area shape="rect" id="node2" href="$dd/d01/classrcsc_1_1TCPSocket.html" title="TCP/IP connection socket class." alt="" coords="5,80,128,107"/>
+<area shape="rect" id="node3" href="$da/d71/classrcsc_1_1UDPSocket.html" title="UDP/IP connection socket class." alt="" coords="153,80,279,107"/>
+</map>

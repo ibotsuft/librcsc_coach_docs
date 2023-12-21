@@ -1,0 +1,4 @@
+<map id="rcsc::PointFarPlayerPredicate" name="rcsc::PointFarPlayerPredicate">
+<area shape="rect" id="node1" title="check if target player&#39;s distance from tha base point is greater than threshold distance" alt="" coords="5,80,216,107"/>
+<area shape="rect" id="node2" href="$d1/d56/classrcsc_1_1PlayerPredicate.html" title="abstract predicate class for player matching" alt="" coords="31,5,190,32"/>
+</map>

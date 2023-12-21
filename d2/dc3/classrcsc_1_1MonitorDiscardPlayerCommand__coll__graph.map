@@ -1,0 +1,4 @@
+<map id="rcsc::MonitorDiscardPlayerCommand" name="rcsc::MonitorDiscardPlayerCommand">
+<area shape="rect" id="node1" title="command to disscard a player from the server" alt="" coords="5,80,201,121"/>
+<area shape="rect" id="node2" href="$d1/d72/classrcsc_1_1MonitorCommand.html" title="abstract monitor command class" alt="" coords="17,5,190,32"/>
+</map>

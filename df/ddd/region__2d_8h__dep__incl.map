@@ -1,0 +1,26 @@
+<map id="/home/kali/rc/tools/include/rcsc/geom/region_2d.h" name="/home/kali/rc/tools/include/rcsc/geom/region_2d.h">
+<area shape="rect" id="node1" title="abstract 2D region class Header File." alt="" coords="691,5,915,47"/>
+<area shape="rect" id="node2" href="$dc/df9/circle__2d_8h.html" title="2D circle region Header File." alt="" coords="305,102,523,143"/>
+<area shape="rect" id="node10" href="$d2/da3/composite__region__2d_8h.html" title="composite 2D region class Header File." alt="" coords="1333,95,1549,151"/>
+<area shape="rect" id="node11" href="$d7/daf/polygon__2d_8h.html" title="2D polygon region Header File." alt="" coords="1074,102,1309,143"/>
+<area shape="rect" id="node13" href="$da/def/rect__2d_8h.html" title="2D rectangle region Header File." alt="" coords="579,102,787,143"/>
+<area shape="rect" id="node23" href="$d7/d1a/sector__2d_8h.html" title="2D sector region Header File." alt="" coords="812,102,1035,143"/>
+<area shape="rect" id="node24" href="$d0/d6f/triangle__2d_8h.html" title="2D triangle class Header File." alt="" coords="47,102,280,143"/>
+<area shape="rect" id="node3" href="$d7/d98/coach__debug__client_8h.html" title="interface for visual debug server Header File" alt="" coords="201,199,368,255"/>
+<area shape="rect" id="node5" href="$d1/d8c/logger_8h.html" title="Logger class Header File." alt="" coords="727,199,891,255"/>
+<area shape="rect" id="node7" href="$d3/df5/geom_8h.html" title="geometry library Header File" alt="" coords="380,310,536,351"/>
+<area shape="rect" id="node8" href="$de/d31/debug__client_8h.html" title="Interface for Soccer Viewer &amp; soccerwindow2 Header File." alt="" coords="29,199,177,255"/>
+<area shape="rect" id="node4" href="$dc/dd1/coach__agent_8h.html" title="basic coach agent Header File" alt="" coords="211,303,356,359"/>
+<area shape="rect" id="node6" href="$d1/d8d/free__message_8h.html" title="player&#39;s freeform say message builder Header File" alt="" coords="1000,303,1148,359"/>
+<area shape="rect" id="node9" href="$de/d23/player__agent_8h.html" title="basic player agent Header File" alt="" coords="525,511,673,567"/>
+<area shape="rect" id="node12" href="$db/ddf/convex__hull_8h.html" title="2D convex hull Header File." alt="" coords="1478,199,1673,255"/>
+<area shape="rect" id="node14" href="$da/da7/server__param_8h.html" title="server parametor Header File" alt="" coords="1289,199,1453,255"/>
+<area shape="rect" id="node19" href="$d0/dec/delaunay__triangulation_8h.html" title="Delaunay Triangulation class Header File." alt="" coords="494,199,702,255"/>
+<area shape="rect" id="node21" href="$d3/d56/voronoi__diagram_8h.html" title="2D voronoi diagram Header File." alt="" coords="759,303,957,359"/>
+<area shape="rect" id="node22" href="$d3/d4c/voronoi__diagram__triangle_8h.html" title="2D voronoi diagram Header File." alt="" coords="915,199,1113,255"/>
+<area shape="rect" id="node15" href="$d0/de3/ball__object_8h.html" title="ball object class Header File" alt="" coords="1181,303,1329,359"/>
+<area shape="rect" id="node17" href="$d6/df7/player__evaluator_8h.html" title="player evaluator classes" alt="" coords="1297,511,1445,567"/>
+<area shape="rect" id="node16" href="$dc/d17/world__model_8h.html" title="world model Header File" alt="" coords="1153,407,1301,463"/>
+<area shape="rect" id="node18" href="$d1/d4e/player__predicate_8h.html" title="player predicate classes Header File" alt="" coords="1125,511,1273,567"/>
+<area shape="rect" id="node20" href="$de/db6/formation__dt_8h.html" title="formation data classes using Delaunay Triangulation Header File." alt="" coords="561,303,731,359"/>
+</map>

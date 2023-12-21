@@ -1,0 +1,16 @@
+<map id="rcsc::PlayerSupportCommand" name="rcsc::PlayerSupportCommand">
+<area shape="rect" id="node1" title="abstract support command" alt="" coords="217,284,432,311"/>
+<area shape="rect" id="node3" href="$d9/d38/classrcsc_1_1PlayerAttentiontoCommand.html" title="player&#39;s attentionto command" alt="" coords="487,5,724,32"/>
+<area shape="rect" id="node4" href="$d3/d28/classrcsc_1_1PlayerCLangCommand.html" title="command to specify the player&#39;s supported clang version" alt="" coords="503,56,707,83"/>
+<area shape="rect" id="node5" href="$d3/d15/classrcsc_1_1PlayerChangeFocusCommand.html" title="player&#39;s change focus command" alt="" coords="480,107,731,133"/>
+<area shape="rect" id="node6" href="$d4/d3b/classrcsc_1_1PlayerChangeViewCommand.html" title="player&#39;s change view command" alt="" coords="483,157,728,184"/>
+<area shape="rect" id="node7" href="$d8/d1c/classrcsc_1_1PlayerCompressionCommand.html" title="command to set message compression level" alt="" coords="481,208,730,235"/>
+<area shape="rect" id="node8" href="$d9/d72/classrcsc_1_1PlayerDoneCommand.html" title="command to send done command for (think) message in synch_mode" alt="" coords="506,259,705,285"/>
+<area shape="rect" id="node9" href="$d8/d09/classrcsc_1_1PlayerEarCommand.html" title="command to specify player&#39;s ear mode" alt="" coords="513,309,698,336"/>
+<area shape="rect" id="node10" href="$da/d39/classrcsc_1_1PlayerPointtoCommand.html" title="player&#39;s turn neck command" alt="" coords="500,360,711,387"/>
+<area shape="rect" id="node11" href="$d2/d05/classrcsc_1_1PlayerSayCommand.html" title="player&#39;s say command" alt="" coords="511,411,699,437"/>
+<area shape="rect" id="node12" href="$dc/d50/classrcsc_1_1PlayerScoreCommand.html" title="command to require current game score" alt="" coords="505,461,705,488"/>
+<area shape="rect" id="node13" href="$d6/d86/classrcsc_1_1PlayerSenseBodyCommand.html" title="command to require sense_body" alt="" coords="487,512,723,539"/>
+<area shape="rect" id="node14" href="$de/d11/classrcsc_1_1PlayerTurnNeckCommand.html" title="player&#39;s turn neck command" alt="" coords="493,563,717,589"/>
+<area shape="rect" id="node2" href="$df/df1/classrcsc_1_1PlayerCommand.html" title="abstract player command class" alt="" coords="5,284,169,311"/>
+</map>

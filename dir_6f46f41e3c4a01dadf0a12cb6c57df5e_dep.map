@@ -1,0 +1,12 @@
+<map id="/home/kali/rc/tools/include/rcsc/player" name="/home/kali/rc/tools/include/rcsc/player">
+<area shape="rect" id="node1" href="dir_2d1202d663035ecaa7918dfc68316750.html" title="clang" alt="" coords="27,148,99,196"/>
+<area shape="rect" id="node2" href="dir_625a6fb20ae9ec69634fbae5c3f013b8.html" title="geom" alt="" coords="123,148,195,196"/>
+<area shape="rect" id="node3" href="dir_97954d97cd73dfd37bcf3fbb417d2f24.html" title="common" alt="" coords="219,148,298,196"/>
+<area shape="rect" id="node4" href="dir_dbabb434b28dd94569491652c51842a3.html" title="time" alt="" coords="323,148,395,196"/>
+<area shape="rect" id="node5" href="dir_6f46f41e3c4a01dadf0a12cb6c57df5e.html" title="player" alt="" coords="172,52,244,100"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000012_000001.html" title="1" alt="" coords="114,138,123,152"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000012_000006.html" title="28" alt="" coords="178,128,195,143"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000012_000004.html" title="13" alt="" coords="236,121,254,135"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000012_000016.html" title="1" alt="" coords="307,124,316,139"/>
+<area shape="rect" id="clust1" href="dir_c1d95ebd928d71408da2b31d444173af.html" title="rcsc" alt="" coords="16,16,405,207"/>
+</map>

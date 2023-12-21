@@ -1,0 +1,5 @@
+<map id="rcsc::Formation" name="rcsc::Formation">
+<area shape="rect" id="node1" title="abstarct formation class" alt="" coords="101,5,223,32"/>
+<area shape="rect" id="node2" href="$d5/dd2/classrcsc_1_1FormationDT.html" title="formation which utilizes Delaunay Triangulation" alt="" coords="5,80,145,107"/>
+<area shape="rect" id="node3" href="$de/dc8/classrcsc_1_1FormationStatic.html" title="static position type formation" alt="" coords="169,80,328,107"/>
+</map>

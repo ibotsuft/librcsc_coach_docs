@@ -1,0 +1,4 @@
+<map id="rcsc::BallControllableDistancePlayerEvaluator" name="rcsc::BallControllableDistancePlayerEvaluator">
+<area shape="rect" id="node1" title="evaluation by ball controllable area" alt="" coords="5,80,223,121"/>
+<area shape="rect" id="node2" href="$d7/d93/classrcsc_1_1PlayerEvaluator.html" title="abstract player evaluator function object class" alt="" coords="35,5,193,32"/>
+</map>

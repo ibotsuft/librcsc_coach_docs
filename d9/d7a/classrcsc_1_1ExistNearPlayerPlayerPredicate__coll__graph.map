@@ -1,0 +1,4 @@
+<map id="rcsc::ExistNearPlayerPlayerPredicate" name="rcsc::ExistNearPlayerPlayerPredicate">
+<area shape="rect" id="node1" title="check if a player exists within the specified distance from the filtered player." alt="" coords="5,80,207,121"/>
+<area shape="rect" id="node2" href="$d1/d56/classrcsc_1_1PlayerPredicate.html" title="abstract predicate class for player matching" alt="" coords="27,5,185,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rcsc::VisualSensor::MovableT" name="rcsc::VisualSensor::MovableT">
+<area shape="rect" id="node1" title="seen movable object info" alt="" coords="87,95,227,136"/>
+<area shape="rect" id="node3" href="$d8/dbc/structrcsc_1_1VisualSensor_1_1BallT.html" title="seen ball info" alt="" coords="5,184,145,225"/>
+<area shape="rect" id="node4" href="$de/d5e/structrcsc_1_1VisualSensor_1_1PlayerT.html" title="seen player info" alt="" coords="169,184,309,225"/>
+<area shape="rect" id="node2" href="$d0/df2/structrcsc_1_1VisualSensor_1_1PolarT.html" title="observable object info" alt="" coords="87,5,227,47"/>
+</map>

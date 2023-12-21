@@ -1,0 +1,4 @@
+<map id="rcsc::SoccerBehavior" name="rcsc::SoccerBehavior">
+<area shape="rect" id="node1" title="abstract player behavior." alt="" coords="5,80,163,107"/>
+<area shape="rect" id="node2" href="$d1/d5d/classrcsc_1_1AbstractAction.html" title="base class of actions" alt="" coords="9,5,159,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="/home/kali/rc/tools/include/rcsc/net/abstract_socket.h" name="/home/kali/rc/tools/include/rcsc/net/abstract_socket.h">
+<area shape="rect" id="node1" title="basic socket class Header File." alt="" coords="78,5,263,61"/>
+<area shape="rect" id="node2" href="$df/d68/tcp__socket_8h.html" title="TCP connection socket class Header File." alt="" coords="5,109,157,165"/>
+<area shape="rect" id="node3" href="$d9/db1/udp__socket_8h.html" title="UDP connection socket class Header File." alt="" coords="182,109,338,165"/>
+</map>

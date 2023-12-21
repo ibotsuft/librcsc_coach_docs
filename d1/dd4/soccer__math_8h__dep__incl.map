@@ -1,0 +1,18 @@
+<map id="/home/kali/rc/tools/include/rcsc/soccer_math.h" name="/home/kali/rc/tools/include/rcsc/soccer_math.h">
+<area shape="rect" id="node1" title="math utility depending on RCSSServer2D Header File" alt="" coords="118,5,267,61"/>
+<area shape="rect" id="node2" href="$d2/d8a/player__type_8h.html" title="heterogenious player parametor Header File" alt="" coords="253,109,417,165"/>
+<area shape="rect" id="node16" href="$d0/de3/ball__object_8h.html" title="ball object class Header File" alt="" coords="29,109,177,165"/>
+<area shape="rect" id="node3" href="$d6/df6/coach__player__object_8h.html" title="player object class for coach/trainer Header file." alt="" coords="540,213,711,269"/>
+<area shape="rect" id="node9" href="$d1/df8/abstract__player__object_8h.html" title="abstract player object class Header File" alt="" coords="242,213,428,269"/>
+<area shape="rect" id="node4" href="$d0/d0f/coach__visual__sensor_8h.html" title="coach/trainer visual sensor data holder class Header File" alt="" coords="479,317,650,373"/>
+<area shape="rect" id="node5" href="$dd/dcb/coach__world__model_8h.html" title="coach/trainer world model class Header File" alt="" coords="662,421,829,477"/>
+<area shape="rect" id="node8" href="$d6/da1/coach__world__state_8h.html" title="coach/trainer world state class Header File" alt="" coords="725,317,884,373"/>
+<area shape="rect" id="node6" href="$dc/dd1/coach__agent_8h.html" title="basic coach agent Header File" alt="" coords="606,525,752,581"/>
+<area shape="rect" id="node7" href="$dd/d78/trainer__agent_8h.html" title="basic trainer agent Header File" alt="" coords="776,525,926,581"/>
+<area shape="rect" id="node10" href="$d6/df7/player__evaluator_8h.html" title="player evaluator classes" alt="" coords="196,525,344,581"/>
+<area shape="rect" id="node11" href="$d6/dc9/player__object_8h.html" title="player object class Header File" alt="" coords="33,317,181,373"/>
+<area shape="rect" id="node14" href="$d1/d4e/player__predicate_8h.html" title="player predicate classes Header File" alt="" coords="368,525,516,581"/>
+<area shape="rect" id="node15" href="$d4/dcc/self__object_8h.html" title="self object class Header File" alt="" coords="205,317,353,373"/>
+<area shape="rect" id="node12" href="$dc/d17/world__model_8h.html" title="world model Header File" alt="" coords="114,421,262,477"/>
+<area shape="rect" id="node13" href="$de/d23/player__agent_8h.html" title="basic player agent Header File" alt="" coords="24,525,172,581"/>
+</map>

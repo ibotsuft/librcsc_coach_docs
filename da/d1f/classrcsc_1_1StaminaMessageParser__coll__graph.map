@@ -1,0 +1,4 @@
+<map id="rcsc::StaminaMessageParser" name="rcsc::StaminaMessageParser">
+<area shape="rect" id="node1" title="stamina rate value message parser" alt="" coords="5,80,213,107"/>
+<area shape="rect" id="node2" href="$df/ddc/classrcsc_1_1SayMessageParser.html" title="abstract player&#39;s say message parser" alt="" coords="20,5,199,32"/>
+</map>

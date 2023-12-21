@@ -1,0 +1,4 @@
+<map id="rcsc::BallGoalieMessage" name="rcsc::BallGoalieMessage">
+<area shape="rect" id="node1" title="ball &amp; goalie info message encoder" alt="" coords="5,80,187,107"/>
+<area shape="rect" id="node2" href="$d6/dd6/classrcsc_1_1SayMessage.html" title="abstract player&#39;s say message" alt="" coords="27,5,165,32"/>
+</map>

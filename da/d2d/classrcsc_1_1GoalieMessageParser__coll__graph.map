@@ -1,0 +1,4 @@
+<map id="rcsc::GoalieMessageParser" name="rcsc::GoalieMessageParser">
+<area shape="rect" id="node1" title="opponent goalie info message parser" alt="" coords="5,80,201,107"/>
+<area shape="rect" id="node2" href="$df/ddc/classrcsc_1_1SayMessageParser.html" title="abstract player&#39;s say message parser" alt="" coords="14,5,193,32"/>
+</map>

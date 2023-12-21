@@ -1,0 +1,4 @@
+<map id="rcsc::CoachTeamNamesCommand" name="rcsc::CoachTeamNamesCommand">
+<area shape="rect" id="node1" title="command to require team names" alt="" coords="5,80,249,107"/>
+<area shape="rect" id="node2" href="$d7/dac/classrcsc_1_1CoachCommand.html" title="abstract coach command class" alt="" coords="46,5,209,32"/>
+</map>

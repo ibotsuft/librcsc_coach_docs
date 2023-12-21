@@ -1,0 +1,6 @@
+<map id="rcsc::rcg::showinfo_t2" name="rcsc::rcg::showinfo_t2">
+<area shape="rect" id="node1" title="view data of rcssmonitor v2 protocol" alt="" coords="139,95,301,121"/>
+<area shape="rect" id="node2" href="$de/dc1/structrcsc_1_1rcg_1_1team__t.html" title="team data" alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node3" href="$de/d9a/structrcsc_1_1rcg_1_1ball__t.html" title="ball data" alt="" coords="160,5,280,32"/>
+<area shape="rect" id="node4" href="$dc/df6/structrcsc_1_1rcg_1_1player__t.html" title="player data" alt="" coords="305,5,442,32"/>
+</map>

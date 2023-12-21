@@ -1,0 +1,6 @@
+<map id="/home/kali/rc/tools/include/rcsc/player/world_model.h" name="/home/kali/rc/tools/include/rcsc/player/world_model.h">
+<area shape="rect" id="node1" title="world model Header File" alt="" coords="177,5,325,61"/>
+<area shape="rect" id="node2" href="$de/d23/player__agent_8h.html" title="basic player agent Header File" alt="" coords="5,109,153,165"/>
+<area shape="rect" id="node3" href="$d6/df7/player__evaluator_8h.html" title="player evaluator classes" alt="" coords="177,109,325,165"/>
+<area shape="rect" id="node4" href="$d1/d4e/player__predicate_8h.html" title="player predicate classes Header File" alt="" coords="349,109,497,165"/>
+</map>

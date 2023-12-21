@@ -1,0 +1,4 @@
+<map id="rcsc::DribbleMessage" name="rcsc::DribbleMessage">
+<area shape="rect" id="node1" title="dribble info message encoder" alt="" coords="5,80,167,107"/>
+<area shape="rect" id="node2" href="$d6/dd6/classrcsc_1_1SayMessage.html" title="abstract player&#39;s say message" alt="" coords="17,5,155,32"/>
+</map>
