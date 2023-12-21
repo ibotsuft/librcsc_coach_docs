@@ -1,0 +1,8 @@
+<map id="coach_ball_object.h" name="coach_ball_object.h">
+<area shape="rect" id="node1" title="ball object class for coach/trainer Header file." alt="" coords="192,5,343,32"/>
+<area shape="rect" id="node2" href="$coach__visual__sensor_8h.html" title="coach/trainer visual sensor data holder class Header File" alt="" coords="5,80,172,107"/>
+<area shape="rect" id="node3" href="$coach__world__model_8h.html" title="coach/trainer world model class Header File" alt="" coords="243,155,406,181"/>
+<area shape="rect" id="node5" href="$coach__world__state_8h.html" title="coach/trainer world state class Header File" alt="" coords="247,80,402,107"/>
+<area shape="rect" id="node6" href="$player__type__analyzer_8h.html" title="player type analyzer class Header File" alt="" coords="426,80,599,107"/>
+<area shape="rect" id="node4" href="$coach__agent_8h.html" title="basic coach agent Header File" alt="" coords="267,229,383,256"/>
+</map>
