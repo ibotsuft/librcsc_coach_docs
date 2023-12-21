@@ -1,17 +1,11 @@
 var searchData=
 [
-  ['unum_0',['unum',['../classrcsc_1_1CoachPlayerObject.html#a66a7e1db0c33a4807b7d6783a1f55926',1,'rcsc::CoachPlayerObject']]],
-  ['update_1',['update',['../classrcsc_1_1CoachPlayerObject.html#ac08a0a1b507277ebb731aa0815e07f15',1,'rcsc::CoachPlayerObject::update(const CoachPlayerObject &amp;p)'],['../classrcsc_1_1CoachPlayerObject.html#ac15b0368f87e4e53d7722a94a8ee94dd',1,'rcsc::CoachPlayerObject::update(const rcg::PlayerT &amp;p)'],['../classrcsc_1_1PlayerTypeAnalyzer.html#a4ae43f138b2ff99658d4cdf2af744612',1,'rcsc::PlayerTypeAnalyzer::update()']]],
-  ['updateafterseeglobal_2',['updateAfterSeeGlobal',['../classrcsc_1_1CoachWorldModel.html#af8c07fb148a43a78bef481e464387e85',1,'rcsc::CoachWorldModel']]],
-  ['updateall_3',['updateAll',['../classrcsc_1_1CoachWorldModel.html#a4bb7bc6eae59a197ea38a014a4d3ffd9',1,'rcsc::CoachWorldModel']]],
-  ['updatedtime_4',['updatedTime',['../classrcsc_1_1PlayerTypeAnalyzer.html#a4902855640deb0fc7eb9861fb7efb484',1,'rcsc::PlayerTypeAnalyzer']]],
-  ['updategamemode_5',['updateGameMode',['../classrcsc_1_1CoachWorldModel.html#a69f9d4a18a5c7754bba4a6637277b531',1,'rcsc::CoachWorldModel']]],
-  ['updatejustbeforedecision_6',['updateJustBeforeDecision',['../classrcsc_1_1CoachWorldModel.html#abd8756b0b8c4ba2e054601167d85e374',1,'rcsc::CoachWorldModel']]],
-  ['updateplayerstamina_7',['updatePlayerStamina',['../classrcsc_1_1CoachWorldState.html#ad773f2e4deb14770453a5c48e676f8bf',1,'rcsc::CoachWorldState']]],
-  ['useadvise_8',['useAdvise',['../classrcsc_1_1CoachConfig.html#ac2e58176c0d17474ef01086a3d640a97',1,'rcsc::CoachConfig']]],
-  ['usecoachname_9',['useCoachName',['../classrcsc_1_1CoachConfig.html#a604a76bc1bcc8911ca679ae1e45d93d8',1,'rcsc::CoachConfig']]],
-  ['useeye_10',['useEye',['../classrcsc_1_1CoachConfig.html#a2cde2a83386f7ad128d180116d3e642a',1,'rcsc::CoachConfig']]],
-  ['usefreeform_11',['useFreeform',['../classrcsc_1_1CoachConfig.html#a11a863a0718bc88c63ab3fabbe81c21a',1,'rcsc::CoachConfig']]],
-  ['usehetero_12',['useHetero',['../classrcsc_1_1CoachConfig.html#a9b8895f87486fdb93d8b9b0dbd2ff166',1,'rcsc::CoachConfig']]],
-  ['useteamgraphic_13',['useTeamGraphic',['../classrcsc_1_1CoachConfig.html#a0a397247fd5a4b387cb6034c8f1a9dc3',1,'rcsc::CoachConfig']]]
+  ['uniformint_0',['UniformInt',['../d1/d79/random_8h.html#a8ea7ba6730b72b7cfae3af18f585f23f',1,'rcsc']]],
+  ['uniformreal_1',['UniformReal',['../d1/d79/random_8h.html#a243ec110cfa97c00d8ea487056f4f621',1,'rcsc']]],
+  ['uniformrng_2',['UniformRNG',['../d8/d6f/classrcsc_1_1UniformRNG.html',1,'rcsc::UniformRNG&lt; DstType &gt;'],['../d8/d6f/classrcsc_1_1UniformRNG.html#a51930a0c15bb1c488daa7373f44862d7',1,'rcsc::UniformRNG::UniformRNG()']]],
+  ['unquantize_5ferror_3',['unquantize_error',['../d4/d08/soccer__math_8h.html#a600c07c3604a840ba7e18665dadf290f',1,'rcsc']]],
+  ['unquantize_5fmax_4',['unquantize_max',['../d4/d08/soccer__math_8h.html#a2c12f61a42a84b20df50275b97c20667',1,'rcsc']]],
+  ['unquantize_5fmin_5',['unquantize_min',['../d4/d08/soccer__math_8h.html#a2190f6a25f902e9a66f8f43ec2a7bafe',1,'rcsc']]],
+  ['unum_5funknown_6',['Unum_Unknown',['../d9/d49/types_8h.html#ac44d07df41c199cc24ec4a89314c45e5',1,'rcsc']]],
+  ['update_7',['update',['../d1/d8e/classrcsc_1_1GameMode.html#a0aaf4a5ac69a994c5190b1d5cc955cb9',1,'rcsc::GameMode']]]
 ];

@@ -1,4 +1,0 @@
-<map id="rcsc::CoachCompressionCommand" name="rcsc::CoachCompressionCommand">
-<area shape="rect" id="node1" title="command to set message compression level" alt="" coords="5,80,253,107"/>
-<area shape="rect" id="node2" href="$classrcsc_1_1CoachCommand.html" title="abstract coach command class" alt="" coords="48,5,211,32"/>
-</map>

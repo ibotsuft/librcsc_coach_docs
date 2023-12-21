@@ -1,4 +1,0 @@
-<map id="rcsc::CoachByeCommand" name="rcsc::CoachByeCommand">
-<area shape="rect" id="node1" title="command to disconnect" alt="" coords="5,80,193,107"/>
-<area shape="rect" id="node2" href="$classrcsc_1_1CoachCommand.html" title="abstract coach command class" alt="" coords="18,5,181,32"/>
-</map>

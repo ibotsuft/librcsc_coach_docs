@@ -1,4 +1,0 @@
-<map id="rcsc::CoachCheckBallCommand" name="rcsc::CoachCheckBallCommand">
-<area shape="rect" id="node1" title="command to require ball status" alt="" coords="5,80,233,107"/>
-<area shape="rect" id="node2" href="$classrcsc_1_1CoachCommand.html" title="abstract coach command class" alt="" coords="38,5,201,32"/>
-</map>

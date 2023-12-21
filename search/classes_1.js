@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['playertypeanalyzer_0',['PlayerTypeAnalyzer',['../classrcsc_1_1PlayerTypeAnalyzer.html',1,'rcsc']]]
+  ['factory_0',['Factory',['../d4/d8f/classrcss_1_1Factory.html',1,'rcss']]]
 ];

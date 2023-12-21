@@ -1,7 +1,0 @@
-<map id="rcsc::CoachAgent" name="rcsc::CoachAgent">
-<area shape="rect" id="node1" title="abstract coach agent class" alt="" coords="224,95,359,121"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,108,32"/>
-<area shape="rect" id="node3" href="$classrcsc_1_1CoachConfig.html" title="coach configuration parameters" alt="" coords="132,5,269,32"/>
-<area shape="rect" id="node4" href="$classrcsc_1_1CoachDebugClient.html" title=" " alt="" coords="294,5,470,32"/>
-<area shape="rect" id="node5" href="$classrcsc_1_1CoachWorldModel.html" title="world world for coach" alt="" coords="494,5,667,32"/>
-</map>

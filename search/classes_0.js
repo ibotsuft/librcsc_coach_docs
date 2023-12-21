@@ -1,26 +1,4 @@
 var searchData=
 [
-  ['coachagent_0',['CoachAgent',['../classrcsc_1_1CoachAgent.html',1,'rcsc']]],
-  ['coachaudiosensor_1',['CoachAudioSensor',['../classrcsc_1_1CoachAudioSensor.html',1,'rcsc']]],
-  ['coachballobject_2',['CoachBallObject',['../classrcsc_1_1CoachBallObject.html',1,'rcsc']]],
-  ['coachbyecommand_3',['CoachByeCommand',['../classrcsc_1_1CoachByeCommand.html',1,'rcsc']]],
-  ['coachchangeplayertypecommand_4',['CoachChangePlayerTypeCommand',['../classrcsc_1_1CoachChangePlayerTypeCommand.html',1,'rcsc']]],
-  ['coachchangeplayertypescommand_5',['CoachChangePlayerTypesCommand',['../classrcsc_1_1CoachChangePlayerTypesCommand.html',1,'rcsc']]],
-  ['coachcheckballcommand_6',['CoachCheckBallCommand',['../classrcsc_1_1CoachCheckBallCommand.html',1,'rcsc']]],
-  ['coachcommand_7',['CoachCommand',['../classrcsc_1_1CoachCommand.html',1,'rcsc']]],
-  ['coachcompressioncommand_8',['CoachCompressionCommand',['../classrcsc_1_1CoachCompressionCommand.html',1,'rcsc']]],
-  ['coachconfig_9',['CoachConfig',['../classrcsc_1_1CoachConfig.html',1,'rcsc']]],
-  ['coachdebugclient_10',['CoachDebugClient',['../classrcsc_1_1CoachDebugClient.html',1,'rcsc']]],
-  ['coachdonecommand_11',['CoachDoneCommand',['../classrcsc_1_1CoachDoneCommand.html',1,'rcsc']]],
-  ['coacheyecommand_12',['CoachEyeCommand',['../classrcsc_1_1CoachEyeCommand.html',1,'rcsc']]],
-  ['coachfreeformcommand_13',['CoachFreeformCommand',['../classrcsc_1_1CoachFreeformCommand.html',1,'rcsc']]],
-  ['coachinitcommand_14',['CoachInitCommand',['../classrcsc_1_1CoachInitCommand.html',1,'rcsc']]],
-  ['coachinterceptpredictor_15',['CoachInterceptPredictor',['../classrcsc_1_1CoachInterceptPredictor.html',1,'rcsc']]],
-  ['coachlookcommand_16',['CoachLookCommand',['../classrcsc_1_1CoachLookCommand.html',1,'rcsc']]],
-  ['coachplayerobject_17',['CoachPlayerObject',['../classrcsc_1_1CoachPlayerObject.html',1,'rcsc']]],
-  ['coachteamgraphiccommand_18',['CoachTeamGraphicCommand',['../classrcsc_1_1CoachTeamGraphicCommand.html',1,'rcsc']]],
-  ['coachteamnamescommand_19',['CoachTeamNamesCommand',['../classrcsc_1_1CoachTeamNamesCommand.html',1,'rcsc']]],
-  ['coachvisualsensor_20',['CoachVisualSensor',['../classrcsc_1_1CoachVisualSensor.html',1,'rcsc']]],
-  ['coachworldmodel_21',['CoachWorldModel',['../classrcsc_1_1CoachWorldModel.html',1,'rcsc']]],
-  ['coachworldstate_22',['CoachWorldState',['../classrcsc_1_1CoachWorldState.html',1,'rcsc']]]
+  ['autoreger_0',['AutoReger',['../da/d42/classrcss_1_1AutoReger.html',1,'rcss']]]
 ];

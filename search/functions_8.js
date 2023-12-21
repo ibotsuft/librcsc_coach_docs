@@ -1,21 +1,4 @@
 var searchData=
 [
-  ['incfreeformsendcount_0',['incFreeformSendCount',['../classrcsc_1_1CoachWorldModel.html#a36eeee1d8ceddd19a6a42fd34c7171ff',1,'rcsc::CoachWorldModel']]],
-  ['inertiafinalpoint_1',['inertiaFinalPoint',['../classrcsc_1_1CoachBallObject.html#aa4b7f805c84ed1ed52617d5542d765c5',1,'rcsc::CoachBallObject']]],
-  ['inertiapoint_2',['inertiaPoint',['../classrcsc_1_1CoachBallObject.html#a6f5a9b80d2e8ffbcb16c23f5a7bb602f',1,'rcsc::CoachBallObject']]],
-  ['inertiatravel_3',['inertiaTravel',['../classrcsc_1_1CoachBallObject.html#ae9506ac835b2e8b2f73546e35d457cce',1,'rcsc::CoachBallObject']]],
-  ['init_4',['init',['../classrcsc_1_1CoachWorldModel.html#ae6181347a6d39116b00aa8cfe124edfd',1,'rcsc::CoachWorldModel']]],
-  ['initimpl_5',['initImpl',['../classrcsc_1_1CoachAgent.html#a105c70b8ede3d5828d21e2b52a9e53ee',1,'rcsc::CoachAgent']]],
-  ['intervalmsec_6',['intervalMSec',['../classrcsc_1_1CoachConfig.html#ad34b4b82a1e2ecaaf017df8a6699f51a',1,'rcsc::CoachConfig']]],
-  ['ischarged_7',['isCharged',['../classrcsc_1_1CoachPlayerObject.html#ad48a040f4d080aa9454390f1b37805c4',1,'rcsc::CoachPlayerObject']]],
-  ['iskicking_8',['isKicking',['../classrcsc_1_1CoachPlayerObject.html#a4de06c6eead88f7cbfb535216eb21c7a',1,'rcsc::CoachPlayerObject']]],
-  ['isopponentredcarded_9',['isOpponentRedCarded',['../classrcsc_1_1CoachWorldModel.html#a8ae9bd13d9286117f39408df4af21aff',1,'rcsc::CoachWorldModel']]],
-  ['isopponentyellowarded_10',['isOpponentYellowarded',['../classrcsc_1_1CoachWorldModel.html#aab2ca498238671bbbaad65b06560e381',1,'rcsc::CoachWorldModel']]],
-  ['ispointing_11',['isPointing',['../classrcsc_1_1CoachPlayerObject.html#a1fdb0403a39253c6de97863ab693597c',1,'rcsc::CoachPlayerObject']]],
-  ['isredcarded_12',['isRedCarded',['../classrcsc_1_1CoachWorldModel.html#adeba5acb3ff4903ef36b1502c7c550eb',1,'rcsc::CoachWorldModel']]],
-  ['istackling_13',['isTackling',['../classrcsc_1_1CoachPlayerObject.html#a9901924a9c09a9a6fbd885404d281c46',1,'rcsc::CoachPlayerObject']]],
-  ['isteammateredcarded_14',['isTeammateRedCarded',['../classrcsc_1_1CoachWorldModel.html#a5cbc1379b3e66852eedb69b6d3aefabb',1,'rcsc::CoachWorldModel']]],
-  ['isteammateyellowcarded_15',['isTeammateYellowCarded',['../classrcsc_1_1CoachWorldModel.html#a4dd1f3c38fc55e9043c4fb6a04d42c64',1,'rcsc::CoachWorldModel']]],
-  ['isvalid_16',['isValid',['../classrcsc_1_1CoachPlayerObject.html#ab6ab095b32d3d2e59c1d91fa740a3405',1,'rcsc::CoachPlayerObject']]],
-  ['isyellowcarded_17',['isYellowCarded',['../classrcsc_1_1CoachWorldModel.html#a3d2d6aefd2b34f0b0f9b25599984c7c0',1,'rcsc::CoachWorldModel']]]
+  ['kick_5frate_0',['kick_rate',['../d4/d08/soccer__math_8h.html#a90ca8ed9a830a791dffc15ed39366f51',1,'rcsc']]]
 ];

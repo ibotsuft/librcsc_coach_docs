@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['kicker_0',['kicker',['../classrcsc_1_1CoachWorldState.html#a1c8ac3ef01d404eb9b18480c97070539',1,'rcsc::CoachWorldState']]],
-  ['kickercandidates_1',['kickerCandidates',['../classrcsc_1_1CoachWorldState.html#a7f83674a3067bd9c7c95e10698a72d94',1,'rcsc::CoachWorldState']]]
+  ['list_0',['list',['../d4/d8f/classrcss_1_1Factory.html#ae2390c0dd3763585f626d1f8f2a6c8be',1,'rcss::Factory']]]
 ];

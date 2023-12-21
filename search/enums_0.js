@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['type_0',['Type',['../classrcsc_1_1CoachCommand.html#a8f432dd24cb461e3a93189514c5176f5',1,'rcsc::CoachCommand']]]
+  ['ballstatus_0',['BallStatus',['../d9/d49/types_8h.html#ad1c70738c6188d30f3ef0010055c5762',1,'rcsc']]]
 ];

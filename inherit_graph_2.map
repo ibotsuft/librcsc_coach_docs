@@ -1,15 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classrcsc_1_1CoachCommand.html" title="abstract coach command class" alt="" coords="5,315,168,341"/>
-<area shape="rect" id="node2" href="$classrcsc_1_1CoachByeCommand.html" title="command to disconnect" alt="" coords="246,5,434,32"/>
-<area shape="rect" id="node3" href="$classrcsc_1_1CoachChangePlayerTypeCommand.html" title="command to change player type" alt="" coords="232,57,448,98"/>
-<area shape="rect" id="node4" href="$classrcsc_1_1CoachChangePlayerTypesCommand.html" title="command to change player type" alt="" coords="229,122,451,163"/>
-<area shape="rect" id="node5" href="$classrcsc_1_1CoachCheckBallCommand.html" title="command to require ball status" alt="" coords="226,188,454,215"/>
-<area shape="rect" id="node6" href="$classrcsc_1_1CoachCompressionCommand.html" title="command to set message compression level" alt="" coords="216,239,464,265"/>
-<area shape="rect" id="node7" href="$classrcsc_1_1CoachDoneCommand.html" title="command to send done command for (think) message in synch_mode" alt="" coords="241,289,439,316"/>
-<area shape="rect" id="node8" href="$classrcsc_1_1CoachEyeCommand.html" title="command to enable/disable coach&#39;s eye" alt="" coords="247,340,433,367"/>
-<area shape="rect" id="node9" href="$classrcsc_1_1CoachFreeformCommand.html" title="freeform message command" alt="" coords="229,391,451,417"/>
-<area shape="rect" id="node10" href="$classrcsc_1_1CoachInitCommand.html" title="initial connection command for coach" alt="" coords="248,441,432,468"/>
-<area shape="rect" id="node11" href="$classrcsc_1_1CoachLookCommand.html" title="commad to require field status" alt="" coords="243,492,437,519"/>
-<area shape="rect" id="node12" href="$classrcsc_1_1CoachTeamGraphicCommand.html" title="command to send a tile of xpm team graphic" alt="" coords="216,543,464,569"/>
-<area shape="rect" id="node13" href="$classrcsc_1_1CoachTeamNamesCommand.html" title="command to require team names" alt="" coords="218,593,462,620"/>
+<area shape="rect" id="node1" href="$d1/d2e/structrcsc_1_1GameTime_1_1Greater.html" title="compare function" alt="" coords="5,5,191,32"/>
 </map>

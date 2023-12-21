@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['ball_0',['ball',['../classrcsc_1_1CoachVisualSensor.html#a13b3993876f9831c535b856d2fea89b8',1,'rcsc::CoachVisualSensor::ball()'],['../classrcsc_1_1CoachWorldModel.html#aebb9fc92881e635bf2bf1e58114acd2d',1,'rcsc::CoachWorldModel::ball()'],['../classrcsc_1_1CoachWorldState.html#ac5dc16cf306825ab5bf8412274fde190',1,'rcsc::CoachWorldState::ball() const']]],
-  ['ballowner_1',['ballOwner',['../classrcsc_1_1CoachWorldState.html#adcc87c4808d903f3ffc78b09d713ddb4',1,'rcsc::CoachWorldState']]],
-  ['ballownerside_2',['ballOwnerSide',['../classrcsc_1_1CoachWorldState.html#a733e3004f5c82b09b3a7408707881e78',1,'rcsc::CoachWorldState']]],
-  ['ballreachstep_3',['ballReachStep',['../classrcsc_1_1CoachPlayerObject.html#a6623649e78794ac42ce8662ad327ff30',1,'rcsc::CoachPlayerObject::ballReachStep()'],['../classrcsc_1_1CoachWorldState.html#a65d6c6f7bb15471e7c55bdb7d13e179a',1,'rcsc::CoachWorldState::ballReachStep()']]],
-  ['body_4',['body',['../classrcsc_1_1CoachPlayerObject.html#ab9dc65424eafc9df2aab66ab9800df01',1,'rcsc::CoachPlayerObject']]]
+  ['ball_5fstatus_5fstrings_0',['BALL_STATUS_STRINGS',['../d9/d49/types_8h.html#aa91ddd57506942a0cdf3d62c39e0722c',1,'types.h']]],
+  ['ballstatus_1',['BallStatus',['../d9/d49/types_8h.html#ad1c70738c6188d30f3ef0010055c5762',1,'rcsc']]],
+  ['base_5ftype_2',['base_type',['../d0/d05/classrcsc_1_1RandomEngine.html#af2ce9962250cad18662d6c821c29d5a2',1,'rcsc::RandomEngine']]],
+  ['bound_3',['bound',['../d8/d11/math__util_8h.html#a6c88e77a979538ba7f361cdc12abc11e',1,'rcsc']]]
 ];

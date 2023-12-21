@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['constptr_0',['ConstPtr',['../classrcsc_1_1CoachWorldState.html#a55e0b7311d27c224f93dd1b60da274c9',1,'rcsc::CoachWorldState']]],
-  ['cont_1',['Cont',['../classrcsc_1_1CoachPlayerObject.html#a8c893bc46e74cc9b2e4c943187c67f2c',1,'rcsc::CoachPlayerObject']]]
+  ['base_5ftype_0',['base_type',['../d0/d05/classrcsc_1_1RandomEngine.html#af2ce9962250cad18662d6c821c29d5a2',1,'rcsc::RandomEngine']]]
 ];

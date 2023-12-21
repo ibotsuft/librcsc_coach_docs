@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['world_0',['world',['../classrcsc_1_1CoachAgent.html#af0a10833cf0081e1b993a8de56848e64',1,'rcsc::CoachAgent']]],
-  ['writeall_1',['writeAll',['../classrcsc_1_1CoachDebugClient.html#a0264b9abbd6ce92e593aeb90edaff407',1,'rcsc::CoachDebugClient']]]
+  ['wind_5feffect_0',['wind_effect',['../d4/d08/soccer__math_8h.html#a3114fcbed226737a9416303d594b03f5',1,'rcsc']]]
 ];

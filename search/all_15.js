@@ -1,9 +1,6 @@
 var searchData=
 [
-  ['_7ecoachagent_0',['~CoachAgent',['../classrcsc_1_1CoachAgent.html#a01b6fc04f6aca0f0d334111696924bd1',1,'rcsc::CoachAgent']]],
-  ['_7ecoachcommand_1',['~CoachCommand',['../classrcsc_1_1CoachCommand.html#a0940811f13bc171ec245be6a709f18ec',1,'rcsc::CoachCommand']]],
-  ['_7ecoachconfig_2',['~CoachConfig',['../classrcsc_1_1CoachConfig.html#ab695de5783ff3bda6031e306004e6616',1,'rcsc::CoachConfig']]],
-  ['_7ecoachdebugclient_3',['~CoachDebugClient',['../classrcsc_1_1CoachDebugClient.html#a8d331842990ff32eaf8a3f1b5e25c56b',1,'rcsc::CoachDebugClient']]],
-  ['_7ecoachvisualsensor_4',['~CoachVisualSensor',['../classrcsc_1_1CoachVisualSensor.html#af838c232b360edd025ce5df0be5454d4',1,'rcsc::CoachVisualSensor']]],
-  ['_7ecoachworldstate_5',['~CoachWorldState',['../classrcsc_1_1CoachWorldState.html#a5cfea0bee6769cbe907ff4fa4b81c421',1,'rcsc::CoachWorldState']]]
+  ['_7eautoreger_0',['~AutoReger',['../da/d42/classrcss_1_1AutoReger.html#a9e0550ef496f59207b50809f11e178de',1,'rcss::AutoReger']]],
+  ['_7efactory_1',['~Factory',['../d4/d8f/classrcss_1_1Factory.html#a03304cc0fa8f537c87b14ec7e37da61f',1,'rcss::Factory']]],
+  ['_7eregholderimpl_2',['~RegHolderImpl',['../da/d35/classrcss_1_1RegHolderImpl.html#acf8576a91fd9818d1870392cd072bd07',1,'rcss::RegHolderImpl']]]
 ];

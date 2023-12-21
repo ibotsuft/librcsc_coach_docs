@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['effort_0',['effort',['../classrcsc_1_1CoachPlayerObject.html#ab67c1ef3f8479352caf24c5018f5e8b1',1,'rcsc::CoachPlayerObject']]],
-  ['existkickableplayer_1',['existKickablePlayer',['../classrcsc_1_1CoachWorldModel.html#af3ce4d79d945f625175b7504d20dcd3d',1,'rcsc::CoachWorldModel']]]
+  ['effective_5fturn_0',['effective_turn',['../d4/d08/soccer__math_8h.html#a79346b174fa550c6a5db43e759d2e549',1,'rcsc']]],
+  ['eps_1',['EPS',['../d8/d11/math__util_8h.html#a51e226f55cfcfe71a2b8ccc1c5bc00f6',1,'rcsc']]]
 ];
